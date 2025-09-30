@@ -5,7 +5,7 @@
       "description": "File Translation Status Data Set",
       "item": [
         {
-          "id": "68b76632-2153-4020-99ea-19348a6f9315",
+          "id": "ef984588-4603-466f-b2bd-eecff41784be",
           "name": "List File Translation Metrics",
           "request": {
             "name": "List File Translation Metrics",
@@ -95,7 +95,7 @@
           }
         },
         {
-          "id": "8e3bee70-0d29-4d16-82e1-01fe1068cb58",
+          "id": "e33e3f0e-7e20-4463-b035-47b16c4ed9ee",
           "name": "List FTS Project Dimension",
           "request": {
             "name": "List FTS Project Dimension",
@@ -176,7 +176,7 @@
           }
         },
         {
-          "id": "cad06a7a-c306-4a39-ba53-eaff415dbae8",
+          "id": "9f1d1b32-f062-49ef-a0ef-70b729908abc",
           "name": "List FTS Customer Dimension",
           "request": {
             "name": "List FTS Customer Dimension",
@@ -257,7 +257,7 @@
           }
         },
         {
-          "id": "e14bfaed-4701-4580-b2a1-9ff202cdf536",
+          "id": "60fd6d8a-9b78-421a-a4b4-b6b573a8ab9d",
           "name": "List FTS Language Pair Dimension",
           "request": {
             "name": "List FTS Language Pair Dimension",
@@ -338,7 +338,7 @@
           }
         },
         {
-          "id": "88b72ccc-53c3-4b45-80ec-5b989e74e51c",
+          "id": "01dd58dd-35d4-4642-9165-bea657ae793e",
           "name": "List FTS Source File Dimension",
           "request": {
             "name": "List FTS Source File Dimension",
@@ -419,7 +419,7 @@
           }
         },
         {
-          "id": "4f3820cf-9994-46a1-8db2-0999af260f7d",
+          "id": "8b58dadb-ef27-4369-b300-f71fda124187",
           "name": "List FTS Project Creation Date Dimension",
           "request": {
             "name": "List FTS Project Creation Date Dimension",
@@ -500,7 +500,7 @@
           }
         },
         {
-          "id": "ec11c22f-0e15-44fb-b189-8a25717cfa4c",
+          "id": "b3e9288b-8b7e-44ba-b7f5-aab8fd7598eb",
           "name": "List FTS Translation Date Dimension",
           "request": {
             "name": "List FTS Translation Date Dimension",
@@ -581,7 +581,7 @@
           }
         },
         {
-          "id": "3e2f8cf0-ae43-41a4-8ab6-5e8959aedf26",
+          "id": "c0f52641-0708-4c6b-a9ae-e929f6af1889",
           "name": "List FTS Translator Dimension",
           "request": {
             "name": "List FTS Translator Dimension",
@@ -662,7 +662,7 @@
           }
         },
         {
-          "id": "2bca3c8f-9323-47b8-ae9b-8b6ce04a9972",
+          "id": "409e2913-49b7-4dbc-acc5-5036e62e2679",
           "name": "List FTS Review Date Dimension",
           "request": {
             "name": "List FTS Review Date Dimension",
@@ -743,7 +743,7 @@
           }
         },
         {
-          "id": "0853e631-cc55-4653-aa23-294a4cd8e09c",
+          "id": "bb0caf4a-82c7-4fb2-a0e5-146e263df43e",
           "name": "List FTS Reviewer Dimension",
           "request": {
             "name": "List FTS Reviewer Dimension",
@@ -824,7 +824,7 @@
           }
         },
         {
-          "id": "719a95c3-6423-4294-8ed1-51ca98ef6cf5",
+          "id": "ac69084c-ad77-42f2-9a23-74361abe0508",
           "name": "List FTS Customer Review Date Dimension",
           "request": {
             "name": "List FTS Customer Review Date Dimension",
@@ -905,7 +905,7 @@
           }
         },
         {
-          "id": "7b2b3155-9ef8-4ea8-9e9a-cfb72e0b14db",
+          "id": "8b73dc4c-b5cb-4d78-b206-28064d676816",
           "name": "List FTS Customer Reviewer Dimension",
           "request": {
             "name": "List FTS Customer Reviewer Dimension",
@@ -986,7 +986,7 @@
           }
         },
         {
-          "id": "ee8e0017-78cb-4f7d-bd83-8eed0d58a5ca",
+          "id": "d0432ba7-5b2f-4f17-adf0-db85327d9b25",
           "name": "List FTS Finalization Date Dimension",
           "request": {
             "name": "List FTS Finalization Date Dimension",
@@ -1073,7 +1073,7 @@
       "description": "Language Revenue Details Data Set",
       "item": [
         {
-          "id": "93d9b188-5ae9-46e2-8885-91c8f1bc628b",
+          "id": "d33a8314-2349-4e9d-8dd2-8e69564b5138",
           "name": "List Language Revenue Details Metrics",
           "request": {
             "name": "List Language Revenue Details Metrics",
@@ -1163,7 +1163,7 @@
           }
         },
         {
-          "id": "7813e5a8-c8eb-400c-aba3-00406da4ef10",
+          "id": "8cfc4cb5-41a3-411a-a7e0-8bd33decac42",
           "name": "List Language Revenue Details Project Dimension",
           "request": {
             "name": "List Language Revenue Details Project Dimension",
@@ -1244,7 +1244,7 @@
           }
         },
         {
-          "id": "79f00e93-2e2e-4082-9258-e3de819968ee",
+          "id": "e95b870e-a26f-4e36-a522-0e2f4db50815",
           "name": "List Language Revenue Details Customer Dimension",
           "request": {
             "name": "List Language Revenue Details Customer Dimension",
@@ -1325,7 +1325,7 @@
           }
         },
         {
-          "id": "3813caaf-587d-4b40-94db-d31b0b2d2e74",
+          "id": "e78c2c52-bc8e-4b16-8204-b8327f632f76",
           "name": "List Language Revenue Details Language Pair Dimension",
           "request": {
             "name": "List Language Revenue Details Language Pair Dimension",
@@ -1406,7 +1406,7 @@
           }
         },
         {
-          "id": "459bc5b2-7ba9-4f72-8330-7d71a57ef385",
+          "id": "14e48572-502b-49f8-9c41-cdf3da61e756",
           "name": "List Language Revenue Details Revenue Type Dimension",
           "request": {
             "name": "List Language Revenue Details Revenue Type Dimension",
@@ -1426,7 +1426,7 @@
                 {
                   "disabled": true,
                   "description": {
-                    "content": "System query option restricts the set of items returned.Operations:1. [Built-in Filter Operations](http://docs.oasis-open.org/odata/odata/v4.01/odata-v4.01-part1-protocol.html#sec_BuiltinFilterOperations)2. [Built-in Query Functions](http://docs.oasis-open.org/odata/odata/v4.01/odata-v4.01-part1-protocol.html#sec_BuiltinQueryFunctions)",
+                    "content": "System query option restricts the set of items returned.\nOperations:\n1. [Built-in Filter Operations](http://docs.oasis-open.org/odata/odata/v4.01/odata-v4.01-part1-protocol.html#sec_BuiltinFilterOperations)\n2. [Built-in Query Functions](http://docs.oasis-open.org/odata/odata/v4.01/odata-v4.01-part1-protocol.html#sec_BuiltinQueryFunctions)\n",
                     "type": "text/plain"
                   },
                   "key": "$filter",
@@ -1439,7 +1439,7 @@
                     "type": "text/plain"
                   },
                   "key": "$top",
-                  "value": "<string>"
+                  "value": "5000"
                 },
                 {
                   "disabled": true,
@@ -1448,16 +1448,16 @@
                     "type": "text/plain"
                   },
                   "key": "$skip",
-                  "value": "<string>"
+                  "value": "0"
                 },
                 {
                   "disabled": true,
                   "description": {
-                    "content": "System query option with a value of true specifies that the total count of items within a collection matching the request be returned along with the result.According to the OData standard the same result is obtain by adding /$count to the service path",
+                    "content": "System query option with a value of true specifies that the total count of items within a collection matching the request be returned along with the result.\n\nAccording to the OData standard the same result is obtain by adding /$count to the service path",
                     "type": "text/plain"
                   },
                   "key": "$count",
-                  "value": "<string>"
+                  "value": "true"
                 }
               ],
               "variable": []
@@ -1487,7 +1487,7 @@
           }
         },
         {
-          "id": "36cb738f-a2b5-4312-8f42-d2a30d802cc4",
+          "id": "19f03eb9-e5dd-41d6-a327-72a176f4cb69",
           "name": "List Language Revenue Details Quote Date Dimension",
           "request": {
             "name": "List Language Revenue Details Quote Date Dimension",
@@ -1568,7 +1568,7 @@
           }
         },
         {
-          "id": "48fafe06-0ead-4880-bb16-f55efc81c353",
+          "id": "f54efb77-ea23-447d-a39c-dbbe28f67f15",
           "name": "List Language Revenue Details Project Creation Date Dimension",
           "request": {
             "name": "List Language Revenue Details Project Creation Date Dimension",
@@ -1649,7 +1649,7 @@
           }
         },
         {
-          "id": "e56bd74e-4f6e-423e-94a0-80aaee7621f6",
+          "id": "208919f3-c2c0-4ba0-a2b8-e216b99a6c66",
           "name": "List Language Revenue Details Currency Dimension",
           "request": {
             "name": "List Language Revenue Details Currency Dimension",
@@ -1736,7 +1736,7 @@
       "description": "Language Revenues Data Set",
       "item": [
         {
-          "id": "e263d7fe-bc75-48c1-bc01-adaba64264bc",
+          "id": "1b98ca68-136e-48e0-8c43-13b2c38a0076",
           "name": "List Language Revenues Customer Dimension",
           "request": {
             "name": "List Language Revenues Customer Dimension",
@@ -1817,7 +1817,7 @@
           }
         },
         {
-          "id": "d97b9e93-3f00-4bce-93f0-fea929b8e57b",
+          "id": "3bd1dcdc-85b3-4280-b27f-34bb6e0a6f61",
           "name": "List Language Revenues Projects Dimension",
           "request": {
             "name": "List Language Revenues Projects Dimension",
@@ -1898,7 +1898,7 @@
           }
         },
         {
-          "id": "a3ac2d11-5762-426d-967d-4c8660bfc2db",
+          "id": "c1e92e1b-b394-48fd-a707-973232591971",
           "name": "List Language Revenues Language Pair Dimension",
           "request": {
             "name": "List Language Revenues Language Pair Dimension",
@@ -1979,7 +1979,7 @@
           }
         },
         {
-          "id": "9245cec4-beac-4212-a1b4-48cc8a83fe15",
+          "id": "920c168f-68d7-4ad4-9802-5ebe2cd99b7d",
           "name": "List Language Revenues Approve Date Dimension",
           "request": {
             "name": "List Language Revenues Approve Date Dimension",
@@ -2060,7 +2060,7 @@
           }
         },
         {
-          "id": "c310b6fa-937d-4ef5-a5ae-e6ced85bab18",
+          "id": "0977afa0-09b8-4948-94fe-28ffd7484e29",
           "name": "List Language Revenues Quote Date Dimension",
           "request": {
             "name": "List Language Revenues Quote Date Dimension",
@@ -2141,7 +2141,7 @@
           }
         },
         {
-          "id": "ed1ff203-b4b9-40a1-9704-5b48041dc2e3",
+          "id": "80db2cf8-6297-4483-9089-b14515788ae4",
           "name": "List Language Revenues Metrics",
           "request": {
             "name": "List Language Revenues Metrics",
@@ -2231,7 +2231,7 @@
           }
         },
         {
-          "id": "1ab97c40-6ee2-4629-9c4c-4fba753c8a4d",
+          "id": "9fdf1d1f-b75a-4faa-bb7d-731db4ebf599",
           "name": "List Language Revenues Currency Dimension",
           "request": {
             "name": "List Language Revenues Currency Dimension",
@@ -2312,7 +2312,7 @@
           }
         },
         {
-          "id": "e1937c66-d2f6-4624-850a-bb6cd3e809b4",
+          "id": "4ec30771-d39a-4e4a-87d2-c0e3d6e1d10f",
           "name": "List Language Revenue Quote Approver",
           "request": {
             "name": "List Language Revenue Quote Approver",
@@ -2399,7 +2399,7 @@
       "description": "Task Status Data Set",
       "item": [
         {
-          "id": "48049383-c23a-415e-98a1-22e7125e0b6e",
+          "id": "957516ab-c016-45fb-9096-f70828d080a2",
           "name": "List Task Status Metrics",
           "request": {
             "name": "List Task Status Metrics",
@@ -2489,7 +2489,7 @@
           }
         },
         {
-          "id": "65b7e5b8-5b06-4a6a-8326-4fd84e4d56ec",
+          "id": "0e6ed4b5-d77f-44be-b7ca-7283f1be9b93",
           "name": "List Task Status Customer Dimension",
           "request": {
             "name": "List Task Status Customer Dimension",
@@ -2570,7 +2570,7 @@
           }
         },
         {
-          "id": "1733a9c0-8ae7-466b-942f-cbb51c544b68",
+          "id": "ec847db3-c246-42ab-98c8-18d29d61a214",
           "name": "List Task Status Language Pair Dimension",
           "request": {
             "name": "List Task Status Language Pair Dimension",
@@ -2651,7 +2651,7 @@
           }
         },
         {
-          "id": "fadf2774-ef0b-4bfa-ba93-5b1adb82594e",
+          "id": "acf27a32-210f-41f5-808a-d49d5515b67f",
           "name": "List Task Status Project Dimension",
           "request": {
             "name": "List Task Status Project Dimension",
@@ -2732,7 +2732,7 @@
           }
         },
         {
-          "id": "7563c714-16cc-447a-b470-30c5d42db69c",
+          "id": "ab3563e3-9d6c-437d-81d9-ed212a59439d",
           "name": "List Task Status Source File Dimension",
           "request": {
             "name": "List Task Status Source File Dimension",
@@ -2813,7 +2813,7 @@
           }
         },
         {
-          "id": "fdbc9c03-6a3c-477f-8f24-a40644397367",
+          "id": "196216a3-2e5d-42ad-ac74-8338a1a22cbc",
           "name": "List Task Status Task Owner Dimension",
           "request": {
             "name": "List Task Status Task Owner Dimension",
@@ -2894,7 +2894,7 @@
           }
         },
         {
-          "id": "84191f38-ac31-4619-aae4-356d4610aa3b",
+          "id": "f281ff0a-64f8-4270-afc6-212fc10ac1e9",
           "name": "List Task Status Task Type Dimension",
           "request": {
             "name": "List Task Status Task Type Dimension",
@@ -2975,7 +2975,7 @@
           }
         },
         {
-          "id": "be50bde6-252b-4a16-834a-2a05124ea119",
+          "id": "018888ec-f9c7-465e-9476-5e7c469dde75",
           "name": "List Task Status Task State Dimension",
           "request": {
             "name": "List Task Status Task State Dimension",
@@ -3062,7 +3062,7 @@
       "description": "Translation Leverage Data Set",
       "item": [
         {
-          "id": "67e6471b-a14a-4299-8327-2d9b12187059",
+          "id": "a6d9ef06-fb1e-401d-bcdd-5468b52939e5",
           "name": "List Translation Leverages Metrics",
           "request": {
             "name": "List Translation Leverages Metrics",
@@ -3152,7 +3152,7 @@
           }
         },
         {
-          "id": "7c59638e-1700-4168-8e4d-c71258cd4300",
+          "id": "c159cea0-a2f8-4d92-9844-0eb865dad7bc",
           "name": "List Translation Leverages Translation Dates",
           "request": {
             "name": "List Translation Leverages Translation Dates",
@@ -3233,7 +3233,7 @@
           }
         },
         {
-          "id": "78ed7f69-1815-4b6d-9ce2-1cd1d5abf18c",
+          "id": "0946d85e-2cf9-4d00-b54e-b4ffd44e4a22",
           "name": "List Translations Leverages Projects",
           "request": {
             "name": "List Translations Leverages Projects",
@@ -3314,7 +3314,7 @@
           }
         },
         {
-          "id": "32e837ca-7ea8-4b17-8a10-634195a5a56c",
+          "id": "c1b64ee6-102f-4241-822b-84fd85ca9646",
           "name": "List Translations Leverages Customers",
           "request": {
             "name": "List Translations Leverages Customers",
@@ -3395,7 +3395,7 @@
           }
         },
         {
-          "id": "4ccc5bbe-3df8-4c9d-9c58-65c8f25c201d",
+          "id": "0ddfdd2c-4e70-4560-b665-5f5737eb5675",
           "name": "List Translations Leverages Language Pairs",
           "request": {
             "name": "List Translations Leverages Language Pairs",
@@ -3476,7 +3476,7 @@
           }
         },
         {
-          "id": "91ac934c-035e-4b5b-9570-ac6670ff6f0e",
+          "id": "b1985e4a-dc8e-4d71-9b53-4929e3b8860f",
           "name": "List Translations Leverages Source Files",
           "request": {
             "name": "List Translations Leverages Source Files",
@@ -3557,7 +3557,7 @@
           }
         },
         {
-          "id": "2e9b259c-67a4-46f7-9143-162c106bd772",
+          "id": "1b5831c0-873c-4d2e-acf5-ebf688014c42",
           "name": "List Translations Leverages Leverage Bands",
           "request": {
             "name": "List Translations Leverages Leverage Bands",
@@ -3653,12 +3653,12 @@
       "description": "Translation Quality Evaluation Data Set",
       "item": [
         {
-          "id": "3f838fb2-a8d9-4ccd-b027-801d5c0c135b",
+          "id": "fadfd31d-87d5-45a6-8f5d-3b9e65368c71",
           "name": "List Translation Quality Evaluation Metrics",
           "request": {
             "name": "List Translation Quality Evaluation Metrics",
             "description": {
-              "content": "Endpoint to fetch translation quality evaluation(tqe) metrics.",
+              "content": "Endpoint to fetch translation quality evaluation (TQE) metrics.",
               "type": "text/plain"
             },
             "url": {
@@ -3743,7 +3743,7 @@
           }
         },
         {
-          "id": "0583795e-8f52-4241-8e24-762f36829737",
+          "id": "c8a290b6-bffa-4e93-b1f8-cf6b34d6111d",
           "name": "List TQE Project Dimension",
           "request": {
             "name": "List TQE Project Dimension",
@@ -3824,7 +3824,7 @@
           }
         },
         {
-          "id": "1115d88d-c34b-48fa-bbfd-181215ce159e",
+          "id": "6e589e3f-a11f-442c-b844-86b66688d9d1",
           "name": "List TQE Customer Dimension",
           "request": {
             "name": "List TQE Customer Dimension",
@@ -3905,7 +3905,7 @@
           }
         },
         {
-          "id": "cef4bff5-b6c7-4091-ac83-8884ec8e776f",
+          "id": "d4e25628-8664-4a59-aac0-a9a94dd24b81",
           "name": "List TQE Language Pair Dimension",
           "request": {
             "name": "List TQE Language Pair Dimension",
@@ -3986,7 +3986,7 @@
           }
         },
         {
-          "id": "f9a34445-dd6f-42a7-b6d5-aea39f5ce15f",
+          "id": "2f433fcd-dfb7-48ef-a5ad-d0ffc8210870",
           "name": "List TQE Source File Dimension",
           "request": {
             "name": "List TQE Source File Dimension",
@@ -4067,7 +4067,7 @@
           }
         },
         {
-          "id": "f37b04c3-69db-4f13-a791-ca8013804798",
+          "id": "d11dfe84-1e28-4795-8b52-c183c6ad104b",
           "name": "List TQE Linguist Dimension",
           "request": {
             "name": "List TQE Linguist Dimension",
@@ -4148,7 +4148,7 @@
           }
         },
         {
-          "id": "dacc6d49-cae8-4875-86aa-0d351afe2c57",
+          "id": "ddccf701-50f8-4eee-a5bd-1123d79cb0b4",
           "name": "List TQE Final Translation Origin Dimension",
           "request": {
             "name": "List TQE Final Translation Origin Dimension",
@@ -4229,7 +4229,7 @@
           }
         },
         {
-          "id": "a7539620-913d-4634-bf46-6b466abbb0ee",
+          "id": "0f78bd7d-e36a-43c9-8529-f1135d33354b",
           "name": "List TQE Original Translation Origin Dimension",
           "request": {
             "name": "List TQE Original Translation Origin Dimension",
@@ -4310,7 +4310,7 @@
           }
         },
         {
-          "id": "0d7c8ab6-abe3-463d-869a-27b8a8c67fa8",
+          "id": "806a1290-7312-4bfd-9cd2-222050be6268",
           "name": "List TQE Evaluation Category Dimension",
           "request": {
             "name": "List TQE Evaluation Category Dimension",
@@ -4391,7 +4391,7 @@
           }
         },
         {
-          "id": "8b1232da-6190-4480-af9b-17bd69991a0c",
+          "id": "35315d96-bd2a-4b19-9e40-124a8a5a3433",
           "name": "List TQE Task Type Dimension",
           "request": {
             "name": "List TQE Task Type Dimension",
@@ -4478,7 +4478,7 @@
       "description": "Vendor Costs Data Set",
       "item": [
         {
-          "id": "db45aaae-639f-4ef5-a3b5-d51dfe963072",
+          "id": "86b157cc-440c-43a4-a501-cea0e1ccf6cf",
           "name": "List Vendor Costs Metrics",
           "request": {
             "name": "List Vendor Costs Metrics",
@@ -4568,7 +4568,7 @@
           }
         },
         {
-          "id": "0e1df4b9-121f-4efc-b12b-c9ec34c1aadd",
+          "id": "4ffbb6f0-06ea-41a7-a8c8-a30923f76fa2",
           "name": "List Vendor Costs Project Dimension",
           "request": {
             "name": "List Vendor Costs Project Dimension",
@@ -4649,7 +4649,7 @@
           }
         },
         {
-          "id": "c1901228-83ae-4ebe-a887-73cc5ba9ac97",
+          "id": "ecb8a9df-d76f-43f5-a660-50019d8cd71d",
           "name": "List Vendor Costs Customer Dimension",
           "request": {
             "name": "List Vendor Costs Customer Dimension",
@@ -4730,7 +4730,7 @@
           }
         },
         {
-          "id": "7b628120-ac3a-49c2-b438-938fee48a29b",
+          "id": "8ec4f6e0-e398-4a26-93db-427e03b32cf4",
           "name": "List Vendor Costs Language Pair Dimension",
           "request": {
             "name": "List Vendor Costs Language Pair Dimension",
@@ -4811,7 +4811,7 @@
           }
         },
         {
-          "id": "00c92a74-46f0-4cd1-adf6-32aad13740ac",
+          "id": "e4158e66-351b-4823-a0b4-9f1d5274885e",
           "name": "List Vendor Costs Currency Dimension",
           "request": {
             "name": "List Vendor Costs Currency Dimension",
@@ -4892,7 +4892,7 @@
           }
         },
         {
-          "id": "6a5b8358-fa7a-4bae-9816-832a31a001b7",
+          "id": "bf076fb9-a6cf-48ed-9f1a-6a5f55d432e2",
           "name": "List Vendor Costs Order Template Dimension",
           "request": {
             "name": "List Vendor Costs Order Template Dimension",
@@ -4973,7 +4973,7 @@
           }
         },
         {
-          "id": "66ac57c6-048f-48ef-abec-11cd52cb0086",
+          "id": "a40615d2-bf09-4be5-b2d5-f935b100604c",
           "name": "List Vendor Costs Service Type Dimension",
           "request": {
             "name": "List Vendor Costs Service Type Dimension",
@@ -5138,7 +5138,7 @@
     }
   ],
   "info": {
-    "_postman_id": "5f06c065-29b1-409e-80cc-9c091b618668",
+    "_postman_id": "f4adb082-2dea-4608-b794-13248b6c87a1",
     "name": "Trados Data Bridge API",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "description": {
