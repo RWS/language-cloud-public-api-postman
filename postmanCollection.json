@@ -5,7 +5,7 @@
       "description": "Account",
       "item": [
         {
-          "id": "d2c41847-2b39-4970-a929-8ca0b8e345ff",
+          "id": "fde47d5b-c45b-481a-897c-27db8c2a2b43",
           "name": "List my Accounts",
           "request": {
             "name": "List my Accounts",
@@ -54,7 +54,7 @@
       "description": "Connected AI",
       "item": [
         {
-          "id": "01ce61ae-9efe-426c-9692-26edd929e0c4",
+          "id": "03c607ed-5cbc-4077-bd35-0172469eb749",
           "name": "List LLM Configurations",
           "request": {
             "name": "List LLM Configurations",
@@ -114,7 +114,7 @@
       "description": "Custom Field",
       "item": [
         {
-          "id": "f648a96a-9f93-4d31-aacc-2bc10cb07d97",
+          "id": "5a02bf10-3c0b-4b25-91bd-7110fbc568d8",
           "name": "List Custom Field Definitions",
           "request": {
             "name": "List Custom Field Definitions",
@@ -212,7 +212,7 @@
           }
         },
         {
-          "id": "fa4225e2-a13c-4407-af80-11722f1198b0",
+          "id": "29cdb37c-29c4-4b7b-a653-6d3f6af5d22c",
           "name": "Get Custom Field Definition",
           "request": {
             "name": "Get Custom Field Definition",
@@ -283,7 +283,7 @@
       "description": "Customer",
       "item": [
         {
-          "id": "71911f41-67c5-473f-8c53-4a45b222cad1",
+          "id": "0228179d-835b-4d73-88b8-8c5d2f8f6e93",
           "name": "Update Customer",
           "request": {
             "name": "Update Customer",
@@ -335,7 +335,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"keyContactId\": \"<string>\",\n  \"ragStatus\": \"red\",\n  \"customFieldDefinitions\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"folderVisibility\": \"default\"\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"keyContactId\": \"<string>\",\n  \"ragStatus\": \"green\",\n  \"customFieldDefinitions\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"folderVisibility\": \"default\"\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -351,7 +351,7 @@
           }
         },
         {
-          "id": "e65a9e4a-f4d2-492d-8b30-f509c017a09b",
+          "id": "f9f253a8-82c2-41ed-99bd-872059e267c5",
           "name": "Get Customer",
           "request": {
             "name": "Get Customer",
@@ -416,7 +416,7 @@
           }
         },
         {
-          "id": "c996ea09-b300-4b6d-bad6-bb4cdbbfc3e9",
+          "id": "96d1b1fd-d03a-4bfa-9e23-a8de235e9b7f",
           "name": "Delete Customer",
           "request": {
             "name": "Delete Customer",
@@ -471,7 +471,7 @@
           }
         },
         {
-          "id": "bd7c6372-226b-4d73-aa6f-64d2883fd1cf",
+          "id": "4e520bac-030d-40c3-b699-1aa7ba14d79d",
           "name": "List Customers",
           "request": {
             "name": "List Customers",
@@ -569,7 +569,7 @@
           }
         },
         {
-          "id": "f54abdb2-8c90-4536-bf72-91edeed669b7",
+          "id": "d3d0d4a5-faf5-415a-8f15-ffbde1ad5a93",
           "name": "Create Customer",
           "request": {
             "name": "Create Customer",
@@ -641,7 +641,7 @@
       "description": "File",
       "item": [
         {
-          "id": "40b0e6cf-ac60-4e46-94b7-3ac4475b2636",
+          "id": "9be8bfa2-c8c2-40b2-a57f-b4561eac6489",
           "name": "Upload Zip File",
           "request": {
             "name": "Upload Zip File",
@@ -700,7 +700,7 @@
           }
         },
         {
-          "id": "d5b83258-5c56-4c15-ab4f-2c85e977c2b4",
+          "id": "07f2bae4-cec4-442b-a9f2-ced72c36b3db",
           "name": "Request File Analysis",
           "request": {
             "name": "Request File Analysis",
@@ -757,7 +757,7 @@
           }
         },
         {
-          "id": "4376cbf0-a0ad-491e-a887-535a8caaf4ba",
+          "id": "d6520313-d2a0-4cdc-9507-2089ff36aea6",
           "name": "Poll File Analysis",
           "request": {
             "name": "Poll File Analysis",
@@ -823,7 +823,7 @@
           }
         },
         {
-          "id": "b6c7716f-6a2b-46c6-94ce-db355402582a",
+          "id": "dda2712b-17ea-41d7-9fdd-e60dcfff9aab",
           "name": "Poll Upload Zip File",
           "request": {
             "name": "Poll Upload Zip File",
@@ -884,7 +884,7 @@
       "description": "File Processing Configuration",
       "item": [
         {
-          "id": "f3e6df11-ca94-480f-a4ef-9e0b8eb311fb",
+          "id": "39143d15-bc05-427e-ae57-61a678b99869",
           "name": "Get File Processing Configuration",
           "request": {
             "name": "Get File Processing Configuration",
@@ -949,7 +949,7 @@
           }
         },
         {
-          "id": "36cf2c08-244a-4924-bbba-32c57e7beeb8",
+          "id": "c7bfb913-7ba0-4d34-8bec-6ccd38d4dc45",
           "name": "List File Processing Configurations",
           "request": {
             "name": "List File Processing Configurations",
@@ -1047,7 +1047,7 @@
           }
         },
         {
-          "id": "0c6fa903-2725-4510-99a2-08c4ad6db216",
+          "id": "d0a4c9d5-bc15-4ef9-91a0-200d9dbed268",
           "name": "Get File Type Setting",
           "request": {
             "name": "Get File Type Setting",
@@ -1124,7 +1124,7 @@
           }
         },
         {
-          "id": "17bc91a2-373d-4fef-8060-2f0be304d9af",
+          "id": "62b08b88-4623-4db3-abde-30b712cf8ce3",
           "name": "List File Type Settings",
           "request": {
             "name": "List File Type Settings",
@@ -1196,7 +1196,7 @@
       "description": "Folder",
       "item": [
         {
-          "id": "503f21c3-19f2-4f8e-b98c-2f446eadcf23",
+          "id": "bf8c934e-e39f-440f-9df4-94df51c60775",
           "name": "Get Folder",
           "request": {
             "name": "Get Folder",
@@ -1261,7 +1261,7 @@
           }
         },
         {
-          "id": "fb5bb153-f459-41d2-af49-bfb9d85c9846",
+          "id": "27effd5e-1340-4143-b9a2-e6198de8c34f",
           "name": "Get Root Folder",
           "request": {
             "name": "Get Root Folder",
@@ -1315,7 +1315,7 @@
           }
         },
         {
-          "id": "cc35b7a9-c3a6-4e46-816b-1d7624c390ba",
+          "id": "5481c306-7915-49b2-a4b9-252360807d67",
           "name": "List Folders",
           "request": {
             "name": "List Folders",
@@ -1419,7 +1419,7 @@
       "description": "Group",
       "item": [
         {
-          "id": "aab26b12-93f7-4b5e-8f45-11f7d16b1b29",
+          "id": "d3bcc323-944e-411b-b170-920e16090567",
           "name": "Get Group",
           "request": {
             "name": "Get Group",
@@ -1484,7 +1484,7 @@
           }
         },
         {
-          "id": "7ff5e323-947a-4f51-8679-80ecb5adf9c3",
+          "id": "fc207428-af0a-4957-8a93-ec1e7bc0e04e",
           "name": "Update Group",
           "request": {
             "name": "Update Group",
@@ -1552,7 +1552,7 @@
           }
         },
         {
-          "id": "13fd8299-0e97-45f4-9018-95026ad118fb",
+          "id": "dbacc6cd-75dd-4989-bbc8-210b3d02d0a2",
           "name": "Delete Group",
           "request": {
             "name": "Delete Group",
@@ -1607,7 +1607,7 @@
           }
         },
         {
-          "id": "a438d0be-a43e-4a44-9818-cc64ff4ee1ca",
+          "id": "58992694-2bfd-4795-82fd-375ec9e08754",
           "name": "List Groups",
           "request": {
             "name": "List Groups",
@@ -1705,7 +1705,7 @@
           }
         },
         {
-          "id": "69eb5aa1-abae-4b3f-a9c0-dd35e02d15e1",
+          "id": "09e420f7-996a-418a-b9c6-ae7826690f95",
           "name": "Create Group",
           "request": {
             "name": "Create Group",
@@ -1777,7 +1777,7 @@
       "description": "Integration",
       "item": [
         {
-          "id": "44263fda-a81f-4293-ae1e-5dc25f58128a",
+          "id": "6355cd64-bc88-40a7-a66f-eaac216c02ac",
           "name": "Create Application",
           "request": {
             "name": "Create Application",
@@ -1843,7 +1843,7 @@
           }
         },
         {
-          "id": "d8109fc6-6e4f-4c49-b44b-5f9edfc7dcbc",
+          "id": "fa627b3a-0bdb-43b3-acd5-1c0b30f0b3cf",
           "name": "List Applications",
           "request": {
             "name": "List Applications",
@@ -1914,7 +1914,7 @@
           }
         },
         {
-          "id": "157490c6-3b2a-46ee-968e-10fa7b509dd1",
+          "id": "f20175ec-0188-4197-9c03-e70fd7c7de0c",
           "name": "Update Application",
           "request": {
             "name": "Update Application",
@@ -1982,7 +1982,7 @@
           }
         },
         {
-          "id": "7fd6b32e-7e49-475c-a24e-296845075f52",
+          "id": "daaa45ff-4d23-44a5-8ad7-29e8d0c932d9",
           "name": "Get Application",
           "request": {
             "name": "Get Application",
@@ -2047,7 +2047,7 @@
           }
         },
         {
-          "id": "2fc781c5-8f23-42b6-bcb1-9a512582148f",
+          "id": "a23831ed-7576-484d-8951-c5c7f8f280e1",
           "name": "Delete Application",
           "request": {
             "name": "Delete Application",
@@ -2108,7 +2108,7 @@
       "description": "Language",
       "item": [
         {
-          "id": "66865cf5-40dc-4bb5-95c9-9452b2fc27aa",
+          "id": "d7b248d2-59ec-45e1-aa86-801107cc9fb2",
           "name": "List Languages",
           "request": {
             "name": "List Languages",
@@ -2185,7 +2185,7 @@
       "description": "Language Processing",
       "item": [
         {
-          "id": "cd70c59e-8fb4-4361-8e85-b056e016b686",
+          "id": "ae80cec3-e26c-498b-94a3-800b53397bb2",
           "name": "List Language Processing Rules",
           "request": {
             "name": "List Language Processing Rules",
@@ -2283,7 +2283,7 @@
           }
         },
         {
-          "id": "e5a7976e-b995-4f5a-987f-0e51c656c32c",
+          "id": "ab6caf44-85dd-403c-90f0-166f447ab674",
           "name": "Get Language Processing Rule",
           "request": {
             "name": "Get Language Processing Rule",
@@ -2354,7 +2354,7 @@
       "description": "Machine Translation",
       "item": [
         {
-          "id": "d55d1c2b-f56d-4594-a1c0-090c12b15a1e",
+          "id": "711a315c-7ffb-49a0-8dbd-b45fdddb9b53",
           "name": "List Machine Translations",
           "request": {
             "name": "List Machine Translations",
@@ -2431,7 +2431,7 @@
       "description": "PerfectMatch Mapping",
       "item": [
         {
-          "id": "7480df1b-bb47-47a6-b27a-cb01d0f28a56",
+          "id": "043be770-2d38-4d61-96e4-769ca47935c7",
           "name": "Create PerfectMatch Mapping",
           "request": {
             "name": "Create PerfectMatch Mapping",
@@ -2497,7 +2497,7 @@
           }
         },
         {
-          "id": "6dff02be-1a49-49d7-b268-c88c9a072f24",
+          "id": "18e746fd-dbfa-4f84-bd4f-ce92e5061bb8",
           "name": "Get PerfectMatch Mapping",
           "request": {
             "name": "Get PerfectMatch Mapping",
@@ -2562,7 +2562,7 @@
           }
         },
         {
-          "id": "4366a549-f67d-4f04-bbf9-c028eade30bb",
+          "id": "7e1e3606-d5a2-47b0-8699-80e264156da4",
           "name": "Add PerfectMatch Batch Mapping",
           "request": {
             "name": "Add PerfectMatch Batch Mapping",
@@ -2641,7 +2641,7 @@
           }
         },
         {
-          "id": "0991f056-64be-4786-a050-ad02bc2743b8",
+          "id": "970450a1-d6a6-4837-a6a6-2f1e398869bd",
           "name": "Update PerfectMatch Batch Mapping",
           "request": {
             "name": "Update PerfectMatch Batch Mapping",
@@ -2721,7 +2721,7 @@
           }
         },
         {
-          "id": "6cbc0a7e-00b5-4f4c-9620-ff67d53fa280",
+          "id": "2a3b8b0b-be7f-49ca-8880-45fea6143ae3",
           "name": "Update File Mapping With Project File",
           "request": {
             "name": "Update File Mapping With Project File",
@@ -2814,7 +2814,7 @@
           }
         },
         {
-          "id": "e2c225f2-0319-4692-ac43-839344f8dbfa",
+          "id": "13598d22-ca03-4896-9112-f58d6ce243fa",
           "name": "Update File Mapping With Manually Uploaded File",
           "request": {
             "name": "Update File Mapping With Manually Uploaded File",
@@ -2881,7 +2881,7 @@
               },
               {
                 "key": "Content-Type",
-                "value": "application/json"
+                "value": "multipart/form-data"
               },
               {
                 "key": "Accept",
@@ -2890,14 +2890,26 @@
             ],
             "method": "POST",
             "body": {
-              "mode": "raw",
-              "raw": "{\n  \"properties\": {\n    \"name\": \"<string>\",\n    \"targetLanguage\": \"<string>\"\n  },\n  \"file\": \"<binary>\"\n}",
-              "options": {
-                "raw": {
-                  "headerFamily": "json",
-                  "language": "json"
+              "mode": "formdata",
+              "formdata": [
+                {
+                  "description": {
+                    "content": "(Required) Provide you own matching file.",
+                    "type": "text/plain"
+                  },
+                  "key": "properties",
+                  "value": "[object Object]",
+                  "type": "text"
+                },
+                {
+                  "description": {
+                    "content": "(Required) The source file (binary string). Only SDLXLIFF files are accepted.",
+                    "type": "text/plain"
+                  },
+                  "key": "file",
+                  "type": "file"
                 }
-              }
+              ]
             },
             "auth": null
           },
@@ -2907,7 +2919,7 @@
           }
         },
         {
-          "id": "e6d704c0-19bd-43f5-a665-7772547ce480",
+          "id": "1cf1fb46-7724-4948-98d7-0f41589b3f8d",
           "name": "Delete PerfectMatch File Mapping For a File",
           "request": {
             "name": "Delete PerfectMatch File Mapping For a File",
@@ -2998,7 +3010,7 @@
           }
         },
         {
-          "id": "7c10f9f8-0f6d-40e1-ba66-26bf4e51f341",
+          "id": "bace4e33-5c94-452e-aeab-83caa79dbaf9",
           "name": "Get PerfectMatch Candidates",
           "request": {
             "name": "Get PerfectMatch Candidates",
@@ -3106,7 +3118,7 @@
       "description": "Pricing Model",
       "item": [
         {
-          "id": "e8371d11-7322-47bb-8968-87ec4d28b8fc",
+          "id": "955a7c9e-5d81-49e1-ac6b-3bf230ecdfb7",
           "name": "List Pricing Models",
           "request": {
             "name": "List Pricing Models",
@@ -3204,7 +3216,7 @@
           }
         },
         {
-          "id": "675404ff-8296-48e0-bf02-148a4d4c6b4b",
+          "id": "94cd4a0e-6419-4531-a31f-7c29a7ab81dd",
           "name": "Create Pricing Model",
           "request": {
             "name": "Create Pricing Model",
@@ -3254,7 +3266,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"currencyCode\": \"<string>\",\n  \"location\": \"<string>\",\n  \"languageDirectionPricing\": [\n    {\n      \"sourceLanguage\": \"<string>\",\n      \"targetLanguage\": \"<string>\",\n      \"contextMatch\": \"<number>\",\n      \"exactMatch\": \"<number>\",\n      \"new\": \"<number>\",\n      \"perfectMatch\": \"<number>\",\n      \"repetition\": \"<number>\",\n      \"machineTranslation\": \"<number>\",\n      \"pricingUnit\": \"characters\",\n      \"fuzzyMatches\": [\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        },\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        }\n      ],\n      \"additionalCosts\": [\n        {\n          \"name\": \"<string>\",\n          \"type\": \"hourly\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"words\",\n          \"conditionalCostType\": \"absolute\",\n          \"conditionalCostOperator\": \"greater\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        },\n        {\n          \"name\": \"<string>\",\n          \"type\": \"adhoc\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"characters\",\n          \"conditionalCostType\": \"percentage\",\n          \"conditionalCostOperator\": \"greaterOrEqual\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"sourceLanguage\": \"<string>\",\n      \"targetLanguage\": \"<string>\",\n      \"contextMatch\": \"<number>\",\n      \"exactMatch\": \"<number>\",\n      \"new\": \"<number>\",\n      \"perfectMatch\": \"<number>\",\n      \"repetition\": \"<number>\",\n      \"machineTranslation\": \"<number>\",\n      \"pricingUnit\": \"words\",\n      \"fuzzyMatches\": [\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        },\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        }\n      ],\n      \"additionalCosts\": [\n        {\n          \"name\": \"<string>\",\n          \"type\": \"adhocVolume\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"words\",\n          \"conditionalCostType\": \"absolute\",\n          \"conditionalCostOperator\": \"greaterOrEqual\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        },\n        {\n          \"name\": \"<string>\",\n          \"type\": \"percentage\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"characters\",\n          \"conditionalCostType\": \"percentage\",\n          \"conditionalCostOperator\": \"less\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        }\n      ]\n    }\n  ],\n  \"description\": \"<string>\",\n  \"additionalCosts\": [\n    {\n      \"name\": \"<string>\",\n      \"type\": \"adhoc\",\n      \"index\": \"<number>\",\n      \"costPerUnit\": \"<number>\",\n      \"unitCount\": \"<number>\",\n      \"volumeUnitType\": \"characters\",\n      \"conditionalCostType\": \"relative\",\n      \"costOperator\": \"lessOrEqual\",\n      \"costVariable\": \"wordCount\",\n      \"operand\": \"<number>\",\n      \"serviceTypes\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"customUnitName\": \"<string>\"\n    },\n    {\n      \"name\": \"<string>\",\n      \"type\": \"perFile\",\n      \"index\": \"<number>\",\n      \"costPerUnit\": \"<number>\",\n      \"unitCount\": \"<number>\",\n      \"volumeUnitType\": \"words\",\n      \"conditionalCostType\": \"relative\",\n      \"costOperator\": \"greaterOrEqual\",\n      \"costVariable\": \"runningTotal\",\n      \"operand\": \"<number>\",\n      \"serviceTypes\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"customUnitName\": \"<string>\"\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"currencyCode\": \"<string>\",\n  \"location\": \"<string>\",\n  \"languageDirectionPricing\": [\n    {\n      \"sourceLanguage\": \"<string>\",\n      \"targetLanguage\": \"<string>\",\n      \"contextMatch\": \"<number>\",\n      \"exactMatch\": \"<number>\",\n      \"new\": \"<number>\",\n      \"perfectMatch\": \"<number>\",\n      \"repetition\": \"<number>\",\n      \"machineTranslation\": \"<number>\",\n      \"pricingUnit\": \"words\",\n      \"fuzzyMatches\": [\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        },\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        }\n      ],\n      \"additionalCosts\": [\n        {\n          \"name\": \"<string>\",\n          \"type\": \"conditional\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"custom\",\n          \"conditionalCostType\": \"absolute\",\n          \"conditionalCostOperator\": \"greaterOrEqual\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        },\n        {\n          \"name\": \"<string>\",\n          \"type\": \"perPage\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"custom\",\n          \"conditionalCostType\": \"percentage\",\n          \"conditionalCostOperator\": \"greater\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"sourceLanguage\": \"<string>\",\n      \"targetLanguage\": \"<string>\",\n      \"contextMatch\": \"<number>\",\n      \"exactMatch\": \"<number>\",\n      \"new\": \"<number>\",\n      \"perfectMatch\": \"<number>\",\n      \"repetition\": \"<number>\",\n      \"machineTranslation\": \"<number>\",\n      \"pricingUnit\": \"words\",\n      \"fuzzyMatches\": [\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        },\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        }\n      ],\n      \"additionalCosts\": [\n        {\n          \"name\": \"<string>\",\n          \"type\": \"percentage\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"words\",\n          \"conditionalCostType\": \"relative\",\n          \"conditionalCostOperator\": \"greaterOrEqual\",\n          \"conditionalCostVariable\": \"runningTotal\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        },\n        {\n          \"name\": \"<string>\",\n          \"type\": \"percentage\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"words\",\n          \"conditionalCostType\": \"percentage\",\n          \"conditionalCostOperator\": \"greaterOrEqual\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        }\n      ]\n    }\n  ],\n  \"description\": \"<string>\",\n  \"additionalCosts\": [\n    {\n      \"name\": \"<string>\",\n      \"type\": \"perTargetLanguage\",\n      \"index\": \"<number>\",\n      \"costPerUnit\": \"<number>\",\n      \"unitCount\": \"<number>\",\n      \"volumeUnitType\": \"custom\",\n      \"conditionalCostType\": \"absolute\",\n      \"costOperator\": \"lessOrEqual\",\n      \"costVariable\": \"wordCount\",\n      \"operand\": \"<number>\",\n      \"serviceTypes\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"customUnitName\": \"<string>\"\n    },\n    {\n      \"name\": \"<string>\",\n      \"type\": \"hourly\",\n      \"index\": \"<number>\",\n      \"costPerUnit\": \"<number>\",\n      \"unitCount\": \"<number>\",\n      \"volumeUnitType\": \"characters\",\n      \"conditionalCostType\": \"absolute\",\n      \"costOperator\": \"lessOrEqual\",\n      \"costVariable\": \"runningTotal\",\n      \"operand\": \"<number>\",\n      \"serviceTypes\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"customUnitName\": \"<string>\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -3270,7 +3282,7 @@
           }
         },
         {
-          "id": "c7777e31-1655-47ce-8ba5-87ba743ff062",
+          "id": "9ef1ce82-0ed4-4ad5-9694-db0374164cb2",
           "name": "Get Pricing Model",
           "request": {
             "name": "Get Pricing Model",
@@ -3335,7 +3347,7 @@
           }
         },
         {
-          "id": "d32aaf9e-485d-4286-a149-b7cd4a77a9ce",
+          "id": "c211aece-9cce-4447-a0c2-3021c26414af",
           "name": "Update Pricing Model",
           "request": {
             "name": "Update Pricing Model",
@@ -3387,7 +3399,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"currencyCode\": \"<string>\",\n  \"languageDirectionPricing\": [\n    {\n      \"sourceLanguage\": \"<string>\",\n      \"targetLanguage\": \"<string>\",\n      \"contextMatch\": \"<number>\",\n      \"exactMatch\": \"<number>\",\n      \"new\": \"<number>\",\n      \"perfectMatch\": \"<number>\",\n      \"repetition\": \"<number>\",\n      \"machineTranslation\": \"<number>\",\n      \"pricingUnit\": \"words\",\n      \"fuzzyMatches\": [\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        },\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        }\n      ],\n      \"additionalCosts\": [\n        {\n          \"name\": \"<string>\",\n          \"type\": \"volume\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"characters\",\n          \"conditionalCostType\": \"absolute\",\n          \"conditionalCostOperator\": \"greater\",\n          \"conditionalCostVariable\": \"runningTotal\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        },\n        {\n          \"name\": \"<string>\",\n          \"type\": \"conditional\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"custom\",\n          \"conditionalCostType\": \"percentage\",\n          \"conditionalCostOperator\": \"lessOrEqual\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"sourceLanguage\": \"<string>\",\n      \"targetLanguage\": \"<string>\",\n      \"contextMatch\": \"<number>\",\n      \"exactMatch\": \"<number>\",\n      \"new\": \"<number>\",\n      \"perfectMatch\": \"<number>\",\n      \"repetition\": \"<number>\",\n      \"machineTranslation\": \"<number>\",\n      \"pricingUnit\": \"words\",\n      \"fuzzyMatches\": [\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        },\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        }\n      ],\n      \"additionalCosts\": [\n        {\n          \"name\": \"<string>\",\n          \"type\": \"adhoc\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"words\",\n          \"conditionalCostType\": \"relative\",\n          \"conditionalCostOperator\": \"greater\",\n          \"conditionalCostVariable\": \"runningTotal\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        },\n        {\n          \"name\": \"<string>\",\n          \"type\": \"volume\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"words\",\n          \"conditionalCostType\": \"absolute\",\n          \"conditionalCostOperator\": \"greater\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        }\n      ]\n    }\n  ],\n  \"additionalCosts\": [\n    {\n      \"name\": \"<string>\",\n      \"type\": \"adhoc\",\n      \"index\": \"<number>\",\n      \"costPerUnit\": \"<number>\",\n      \"unitCount\": \"<number>\",\n      \"volumeUnitType\": \"custom\",\n      \"conditionalCostType\": \"absolute\",\n      \"costOperator\": \"greater\",\n      \"costVariable\": \"runningTotal\",\n      \"operand\": \"<number>\",\n      \"serviceTypes\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"customUnitName\": \"<string>\"\n    },\n    {\n      \"name\": \"<string>\",\n      \"type\": \"perFile\",\n      \"index\": \"<number>\",\n      \"costPerUnit\": \"<number>\",\n      \"unitCount\": \"<number>\",\n      \"volumeUnitType\": \"custom\",\n      \"conditionalCostType\": \"absolute\",\n      \"costOperator\": \"lessOrEqual\",\n      \"costVariable\": \"wordCount\",\n      \"operand\": \"<number>\",\n      \"serviceTypes\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"customUnitName\": \"<string>\"\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"currencyCode\": \"<string>\",\n  \"languageDirectionPricing\": [\n    {\n      \"sourceLanguage\": \"<string>\",\n      \"targetLanguage\": \"<string>\",\n      \"contextMatch\": \"<number>\",\n      \"exactMatch\": \"<number>\",\n      \"new\": \"<number>\",\n      \"perfectMatch\": \"<number>\",\n      \"repetition\": \"<number>\",\n      \"machineTranslation\": \"<number>\",\n      \"pricingUnit\": \"characters\",\n      \"fuzzyMatches\": [\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        },\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        }\n      ],\n      \"additionalCosts\": [\n        {\n          \"name\": \"<string>\",\n          \"type\": \"adhoc\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"characters\",\n          \"conditionalCostType\": \"percentage\",\n          \"conditionalCostOperator\": \"greaterOrEqual\",\n          \"conditionalCostVariable\": \"runningTotal\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        },\n        {\n          \"name\": \"<string>\",\n          \"type\": \"percentage\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"characters\",\n          \"conditionalCostType\": \"percentage\",\n          \"conditionalCostOperator\": \"greater\",\n          \"conditionalCostVariable\": \"runningTotal\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"sourceLanguage\": \"<string>\",\n      \"targetLanguage\": \"<string>\",\n      \"contextMatch\": \"<number>\",\n      \"exactMatch\": \"<number>\",\n      \"new\": \"<number>\",\n      \"perfectMatch\": \"<number>\",\n      \"repetition\": \"<number>\",\n      \"machineTranslation\": \"<number>\",\n      \"pricingUnit\": \"characters\",\n      \"fuzzyMatches\": [\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        },\n        {\n          \"price\": \"<number>\",\n          \"category\": {\n            \"minimumMatchValue\": \"<integer>\",\n            \"maximumMatchValue\": \"<integer>\"\n          }\n        }\n      ],\n      \"additionalCosts\": [\n        {\n          \"name\": \"<string>\",\n          \"type\": \"hourly\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"words\",\n          \"conditionalCostType\": \"relative\",\n          \"conditionalCostOperator\": \"less\",\n          \"conditionalCostVariable\": \"runningTotal\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        },\n        {\n          \"name\": \"<string>\",\n          \"type\": \"conditional\",\n          \"index\": \"<number>\",\n          \"costPerUnit\": \"<number>\",\n          \"unitCount\": \"<number>\",\n          \"volumeUnitType\": \"custom\",\n          \"conditionalCostType\": \"absolute\",\n          \"conditionalCostOperator\": \"greater\",\n          \"conditionalCostVariable\": \"wordCount\",\n          \"operand\": \"<number>\",\n          \"serviceTypes\": [\n            \"<string>\",\n            \"<string>\"\n          ],\n          \"customUnitName\": \"<string>\"\n        }\n      ]\n    }\n  ],\n  \"additionalCosts\": [\n    {\n      \"name\": \"<string>\",\n      \"type\": \"adhoc\",\n      \"index\": \"<number>\",\n      \"costPerUnit\": \"<number>\",\n      \"unitCount\": \"<number>\",\n      \"volumeUnitType\": \"words\",\n      \"conditionalCostType\": \"percentage\",\n      \"costOperator\": \"greater\",\n      \"costVariable\": \"wordCount\",\n      \"operand\": \"<number>\",\n      \"serviceTypes\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"customUnitName\": \"<string>\"\n    },\n    {\n      \"name\": \"<string>\",\n      \"type\": \"perPage\",\n      \"index\": \"<number>\",\n      \"costPerUnit\": \"<number>\",\n      \"unitCount\": \"<number>\",\n      \"volumeUnitType\": \"characters\",\n      \"conditionalCostType\": \"absolute\",\n      \"costOperator\": \"less\",\n      \"costVariable\": \"runningTotal\",\n      \"operand\": \"<number>\",\n      \"serviceTypes\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"customUnitName\": \"<string>\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -3403,7 +3415,7 @@
           }
         },
         {
-          "id": "b1e13d2c-6dd0-4577-a4c4-1ccc0ea9e84c",
+          "id": "bdf78b57-8b84-4337-b9c9-2f58fe885ca8",
           "name": "Delete Pricing Model",
           "request": {
             "name": "Delete Pricing Model",
@@ -3464,7 +3476,7 @@
       "description": "Project",
       "item": [
         {
-          "id": "fdb22eb8-dcb5-4e2e-8930-12db1d222414",
+          "id": "b7624c21-2456-4bf7-ab85-6b14afb17b58",
           "name": "List Projects",
           "request": {
             "name": "List Projects",
@@ -3550,7 +3562,7 @@
                     "type": "text/plain"
                   },
                   "key": "status",
-                  "value": "completed"
+                  "value": "inProgress"
                 },
                 {
                   "disabled": true,
@@ -3697,7 +3709,7 @@
           }
         },
         {
-          "id": "83c5eb49-7e5a-4c5f-838f-ed40356d0c0e",
+          "id": "447b5c98-86b2-4cfa-998f-268b827b2615",
           "name": "Create Project",
           "request": {
             "name": "Create Project",
@@ -3747,7 +3759,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"dueBy\": \"<dateTime>\",\n  \"languageDirections\": [\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    },\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    }\n  ],\n  \"location\": \"<string>\",\n  \"description\": \"<string>\",\n  \"projectTemplate\": {\n    \"id\": \"<string>\"\n  },\n  \"translationEngine\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"fileProcessingConfiguration\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"workflow\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"pricingModel\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"customFields\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"tqaProfile\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"forceOnline\": \"<boolean>\",\n  \"projectManagers\": [\n    {\n      \"id\": \"<string>\",\n      \"type\": \"user\"\n    },\n    {\n      \"id\": \"<string>\",\n      \"type\": \"group\"\n    }\n  ],\n  \"scheduleTemplate\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"settings\": {\n    \"general\": {\n      \"completionConfiguration\": {\n        \"completeDays\": 90,\n        \"archiveDays\": 90,\n        \"archiveReminderDays\": 7\n      }\n    }\n  }\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"dueBy\": \"<dateTime>\",\n  \"languageDirections\": [\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    },\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    }\n  ],\n  \"location\": \"<string>\",\n  \"description\": \"<string>\",\n  \"projectTemplate\": {\n    \"id\": \"<string>\"\n  },\n  \"translationEngine\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"fileProcessingConfiguration\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"workflow\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"pricingModel\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"customFields\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"tqaProfile\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"forceOnline\": \"<boolean>\",\n  \"projectManagers\": [\n    {\n      \"id\": \"<string>\",\n      \"type\": \"group\"\n    },\n    {\n      \"id\": \"<string>\",\n      \"type\": \"user\"\n    }\n  ],\n  \"scheduleTemplate\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"settings\": {\n    \"general\": {\n      \"completionConfiguration\": {\n        \"completeDays\": 90,\n        \"archiveDays\": 90,\n        \"archiveReminderDays\": 7\n      }\n    }\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -3763,7 +3775,7 @@
           }
         },
         {
-          "id": "92c7fb31-535a-463d-b407-e350836ce9dc",
+          "id": "3b2051c1-8557-49f4-8c46-6b65f9996e0e",
           "name": "Get Project",
           "request": {
             "name": "Get Project",
@@ -3828,7 +3840,7 @@
           }
         },
         {
-          "id": "535ddab2-d65b-41dc-a627-9da4d93ed342",
+          "id": "b6a3c4a2-195c-4378-b277-089fb7918d94",
           "name": "Update Project",
           "request": {
             "name": "Update Project",
@@ -3880,7 +3892,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"dueBy\": \"<dateTime>\",\n  \"deliveredBy\": \"<dateTime>\",\n  \"translationEngine\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"fileProcessingConfiguration\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"pricingModel\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"workflow\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"projectPlan\": {\n    \"taskConfigurations\": [\n      {\n        \"taskTemplate\": {\n          \"id\": \"<string>\"\n        },\n        \"isSkipped\": \"<boolean>\",\n        \"assignees\": [\n          {\n            \"type\": \"user\",\n            \"id\": \"<string>\"\n          },\n          {\n            \"type\": \"projectCreator\",\n            \"id\": \"<string>\"\n          }\n        ],\n        \"scope\": {\n          \"type\": \"global\",\n          \"sourceLanguage\": {\n            \"languageCode\": \"<string>\"\n          },\n          \"targetLanguage\": {\n            \"languageCode\": \"<string>\"\n          },\n          \"languageDirection\": {\n            \"id\": \"<string>\"\n          }\n        },\n        \"dueBy\": \"<dateTime>\"\n      }\n    ]\n  },\n  \"tqaProfile\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"quote\": {\n    \"languageCosts\": [\n      {\n        \"name\": \"<string>\",\n        \"count\": \"<number>\",\n        \"cost\": \"<number>\",\n        \"costOrder\": \"<integer>\",\n        \"conditionalCostThreshold\": \"<number>\",\n        \"costType\": \"adhoc\",\n        \"volumeUnitType\": \"words\",\n        \"targetLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"conditionalCostType\": \"absolute\",\n        \"conditionalCostOperator\": \"greaterOrEqual\",\n        \"conditionalCostVariable\": \"runningTotal\"\n      },\n      {\n        \"name\": \"<string>\",\n        \"count\": \"<number>\",\n        \"cost\": \"<number>\",\n        \"costOrder\": \"<integer>\",\n        \"conditionalCostThreshold\": \"<number>\",\n        \"costType\": \"conditional\",\n        \"volumeUnitType\": \"words\",\n        \"targetLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"conditionalCostType\": \"relative\",\n        \"conditionalCostOperator\": \"greater\",\n        \"conditionalCostVariable\": \"runningTotal\"\n      }\n    ],\n    \"additionalCosts\": [\n      {\n        \"name\": \"<string>\",\n        \"count\": \"<number>\",\n        \"cost\": \"<number>\",\n        \"costOrder\": \"<integer>\",\n        \"conditionalCostThreshold\": \"<number>\",\n        \"costType\": \"perFile\",\n        \"volumeUnitType\": \"characters\",\n        \"conditionalCostType\": \"relative\",\n        \"conditionalCostOperator\": \"greater\",\n        \"conditionalCostVariable\": \"wordCount\"\n      },\n      {\n        \"name\": \"<string>\",\n        \"count\": \"<number>\",\n        \"cost\": \"<number>\",\n        \"costOrder\": \"<integer>\",\n        \"conditionalCostThreshold\": \"<number>\",\n        \"costType\": \"adhocVolume\",\n        \"volumeUnitType\": \"characters\",\n        \"conditionalCostType\": \"relative\",\n        \"conditionalCostOperator\": \"lessOrEqual\",\n        \"conditionalCostVariable\": \"wordCount\"\n      }\n    ],\n    \"notes\": \"<string>\"\n  },\n  \"customFields\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"projectManagers\": [\n    {\n      \"id\": \"<string>\",\n      \"type\": \"user\"\n    },\n    {\n      \"id\": \"<string>\",\n      \"type\": \"user\"\n    }\n  ],\n  \"settings\": {\n    \"general\": {\n      \"completionConfiguration\": {\n        \"completeDays\": 90,\n        \"archiveDays\": 90,\n        \"archiveReminderDays\": 7\n      }\n    },\n    \"translationMemorySettings\": {\n      \"filters\": {\n        \"hardFilter\": {\n          \"expression\": \"<string>\",\n          \"fields\": 6135.110292961143\n        }\n      },\n      \"updateTranslationMemoryFields\": [\n        {\n          \"fieldId\": \"<string>\",\n          \"values\": [\n            \"<string>\",\n            \"<string>\"\n          ]\n        },\n        {\n          \"fieldId\": \"<string>\",\n          \"values\": [\n            \"<string>\",\n            \"<string>\"\n          ]\n        }\n      ]\n    }\n  }\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"dueBy\": \"<dateTime>\",\n  \"deliveredBy\": \"<dateTime>\",\n  \"translationEngine\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"fileProcessingConfiguration\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"pricingModel\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"workflow\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"projectPlan\": {\n    \"taskConfigurations\": [\n      {\n        \"taskTemplate\": {\n          \"id\": \"<string>\"\n        },\n        \"isSkipped\": \"<boolean>\",\n        \"assignees\": [\n          {\n            \"type\": \"user\",\n            \"id\": \"<string>\"\n          },\n          {\n            \"type\": \"projectCreator\",\n            \"id\": \"<string>\"\n          }\n        ],\n        \"scope\": {\n          \"type\": \"languageDirection\",\n          \"sourceLanguage\": {\n            \"languageCode\": \"<string>\"\n          },\n          \"targetLanguage\": {\n            \"languageCode\": \"<string>\"\n          },\n          \"languageDirection\": {\n            \"id\": \"<string>\"\n          }\n        },\n        \"dueBy\": \"<dateTime>\"\n      }\n    ]\n  },\n  \"tqaProfile\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"quote\": {\n    \"languageCosts\": [\n      {\n        \"name\": \"<string>\",\n        \"count\": \"<number>\",\n        \"cost\": \"<number>\",\n        \"costOrder\": \"<integer>\",\n        \"conditionalCostThreshold\": \"<number>\",\n        \"costType\": \"adhoc\",\n        \"volumeUnitType\": \"characters\",\n        \"targetLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"conditionalCostType\": \"percentage\",\n        \"conditionalCostOperator\": \"less\",\n        \"conditionalCostVariable\": \"runningTotal\"\n      },\n      {\n        \"name\": \"<string>\",\n        \"count\": \"<number>\",\n        \"cost\": \"<number>\",\n        \"costOrder\": \"<integer>\",\n        \"conditionalCostThreshold\": \"<number>\",\n        \"costType\": \"conditional\",\n        \"volumeUnitType\": \"custom\",\n        \"targetLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"conditionalCostType\": \"relative\",\n        \"conditionalCostOperator\": \"less\",\n        \"conditionalCostVariable\": \"wordCount\"\n      }\n    ],\n    \"additionalCosts\": [\n      {\n        \"name\": \"<string>\",\n        \"count\": \"<number>\",\n        \"cost\": \"<number>\",\n        \"costOrder\": \"<integer>\",\n        \"conditionalCostThreshold\": \"<number>\",\n        \"costType\": \"adhoc\",\n        \"volumeUnitType\": \"custom\",\n        \"conditionalCostType\": \"absolute\",\n        \"conditionalCostOperator\": \"lessOrEqual\",\n        \"conditionalCostVariable\": \"runningTotal\"\n      },\n      {\n        \"name\": \"<string>\",\n        \"count\": \"<number>\",\n        \"cost\": \"<number>\",\n        \"costOrder\": \"<integer>\",\n        \"conditionalCostThreshold\": \"<number>\",\n        \"costType\": \"perFile\",\n        \"volumeUnitType\": \"characters\",\n        \"conditionalCostType\": \"percentage\",\n        \"conditionalCostOperator\": \"lessOrEqual\",\n        \"conditionalCostVariable\": \"wordCount\"\n      }\n    ],\n    \"notes\": \"<string>\"\n  },\n  \"customFields\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"projectManagers\": [\n    {\n      \"id\": \"<string>\",\n      \"type\": \"group\"\n    },\n    {\n      \"id\": \"<string>\",\n      \"type\": \"user\"\n    }\n  ],\n  \"settings\": {\n    \"general\": {\n      \"completionConfiguration\": {\n        \"completeDays\": 90,\n        \"archiveDays\": 90,\n        \"archiveReminderDays\": 7\n      }\n    },\n    \"translationMemorySettings\": {\n      \"filters\": {\n        \"hardFilter\": {\n          \"expression\": \"<string>\",\n          \"fields\": false\n        }\n      },\n      \"updateTranslationMemoryFields\": [\n        {\n          \"fieldId\": \"<string>\",\n          \"values\": [\n            \"<string>\",\n            \"<string>\"\n          ]\n        },\n        {\n          \"fieldId\": \"<string>\",\n          \"values\": [\n            \"<string>\",\n            \"<string>\"\n          ]\n        }\n      ]\n    }\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -3896,7 +3908,7 @@
           }
         },
         {
-          "id": "8d1fa1ca-daf8-4f47-9c02-358116f040fc",
+          "id": "4a5edac4-0c63-433e-b784-5f2ac6f56f86",
           "name": "Delete Project",
           "request": {
             "name": "Delete Project",
@@ -3951,7 +3963,7 @@
           }
         },
         {
-          "id": "e5ccb405-c6af-44f1-8a44-56cb0124c52a",
+          "id": "eda5b20f-535b-44a6-8e21-2d24278acb73",
           "name": "Get Project Configuration",
           "request": {
             "name": "Get Project Configuration",
@@ -4017,7 +4029,7 @@
           }
         },
         {
-          "id": "d9fb4d3f-9f02-4674-b9da-2876bded43f1",
+          "id": "da0f6b33-7785-498c-8279-1a9af47f5473",
           "name": "Update Project Configuration",
           "request": {
             "name": "Update Project Configuration",
@@ -4070,7 +4082,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"translationMemoryFieldsSettings\": {\n    \"settings\": [\n      {\n        \"name\": \"<string>\",\n        \"values\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"type\": \"dateTime\"\n      },\n      {\n        \"name\": \"<string>\",\n        \"values\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"type\": \"singlePicklist\"\n      }\n    ]\n  },\n  \"updateTranslationMemory\": {\n    \"settings\": {\n      \"segmentsConfirmationLevels\": [\n        \"rejectedSignOff\",\n        \"rejectedTranslation\"\n      ],\n      \"targetSegmentsDifferOption\": \"merge\"\n    }\n  },\n  \"perfectMatchMappingId\": \"<string>\"\n}",
+              "raw": "{\n  \"translationMemoryFieldsSettings\": {\n    \"settings\": [\n      {\n        \"name\": \"<string>\",\n        \"values\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"type\": \"singleString\"\n      },\n      {\n        \"name\": \"<string>\",\n        \"values\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"type\": \"singleString\"\n      }\n    ]\n  },\n  \"updateTranslationMemory\": {\n    \"settings\": {\n      \"segmentsConfirmationLevels\": [\n        \"approvedTranslation\",\n        \"approvedSignOff\"\n      ],\n      \"targetSegmentsDifferOption\": \"merge\"\n    }\n  },\n  \"perfectMatchMappingId\": \"<string>\"\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -4086,7 +4098,7 @@
           }
         },
         {
-          "id": "fd053154-5e26-4fd1-a4de-cda0626ac203",
+          "id": "713a8235-5f7a-4c18-8384-b8712a30bf70",
           "name": "Update Project Pricing Model",
           "request": {
             "name": "Update Project Pricing Model",
@@ -4155,7 +4167,7 @@
           }
         },
         {
-          "id": "f1127915-1ce0-4ba4-8020-e4d91136e6b1",
+          "id": "5c55a1ae-853e-4e2f-a2f6-b7b7e44007b3",
           "name": "Start Project",
           "request": {
             "name": "Start Project",
@@ -4211,7 +4223,7 @@
           }
         },
         {
-          "id": "8e532d66-f758-44a0-9013-532ba8b6e070",
+          "id": "2bf997ef-e705-4fac-9f83-2e25960f258a",
           "name": "Complete Project",
           "request": {
             "name": "Complete Project",
@@ -4267,7 +4279,7 @@
           }
         },
         {
-          "id": "2d8ee6f3-e0d8-4e64-8725-11fb8d55b1b7",
+          "id": "8706b5a5-7266-4c08-8289-eb16fe26daf4",
           "name": "Export Project Files",
           "request": {
             "name": "Export Project Files",
@@ -4337,7 +4349,7 @@
           }
         },
         {
-          "id": "23d07aa9-4118-468b-9234-eaacd3706daf",
+          "id": "8e978c2e-f67f-4de0-ae5e-61cff1e47341",
           "name": "Poll Project Files Export",
           "request": {
             "name": "Poll Project Files Export",
@@ -4405,7 +4417,7 @@
           }
         },
         {
-          "id": "62226c5f-ea2b-4ac2-a975-9302d76bb06b",
+          "id": "04991749-f88c-46c7-b97d-0e97c8839232",
           "name": "Download Exported Project Files",
           "request": {
             "name": "Download Exported Project Files",
@@ -4474,7 +4486,7 @@
           }
         },
         {
-          "id": "02211846-8009-4b1f-8cc3-969c6ecac401",
+          "id": "ba98f9a3-a176-4d54-b684-c4b21d916f20",
           "name": "Cancel Project File",
           "request": {
             "name": "Cancel Project File",
@@ -4542,7 +4554,7 @@
           }
         },
         {
-          "id": "608ceb36-abf0-4c05-9875-46a24895b970",
+          "id": "14d32e08-3864-450b-96f1-5c25c0b6ba49",
           "name": "List Project's Tasks",
           "request": {
             "name": "List Project's Tasks",
@@ -4653,7 +4665,7 @@
           }
         },
         {
-          "id": "109738f6-088e-4cdc-8c95-81f11e815889",
+          "id": "c8ee9d68-c16e-4b37-b9c3-b38af18440ba",
           "name": "Reschedule Project Tasks",
           "request": {
             "name": "Reschedule Project Tasks",
@@ -4723,7 +4735,7 @@
           }
         },
         {
-          "id": "268a9e60-ef5d-4c38-84e0-a4f090acf3b1",
+          "id": "4f41dcd7-7a62-4cbb-ad8c-c4f4ced93f83",
           "name": "Update Custom Field",
           "request": {
             "name": "Update Custom Field",
@@ -4800,7 +4812,7 @@
       "description": "Project Group",
       "item": [
         {
-          "id": "d8358bba-3ad8-4ffe-acf0-4deebdeafbcb",
+          "id": "199f861f-f551-4c8b-9155-065a537e681a",
           "name": "List Project Groups",
           "request": {
             "name": "List Project Groups",
@@ -4889,7 +4901,7 @@
           }
         },
         {
-          "id": "12adbdbb-a0a3-4cc2-8b5c-78a9758da39f",
+          "id": "65335975-b698-4e54-aaf8-fdc19b5b02a7",
           "name": "Create Project Group",
           "request": {
             "name": "Create Project Group",
@@ -4955,7 +4967,7 @@
           }
         },
         {
-          "id": "bdd70351-3458-4e5d-a274-2c8300351e04",
+          "id": "50141dff-2eb2-40fe-adfb-f101e6504063",
           "name": "Get Project Group",
           "request": {
             "name": "Get Project Group",
@@ -5020,7 +5032,7 @@
           }
         },
         {
-          "id": "fe3afc25-029c-4eae-9e8f-5ec08adeb192",
+          "id": "f5e4f51f-276c-4e2f-9398-84ee33b87b03",
           "name": "Update Project Group",
           "request": {
             "name": "Update Project Group",
@@ -5088,7 +5100,7 @@
           }
         },
         {
-          "id": "0fcd1536-a691-44cb-96ab-166f8a9bf036",
+          "id": "8f4838de-59ae-4585-97b6-0d8b8ac9930e",
           "name": "Delete Project Group",
           "request": {
             "name": "Delete Project Group",
@@ -5143,7 +5155,7 @@
           }
         },
         {
-          "id": "c82b0feb-1ca4-4079-af5c-f6120da6af04",
+          "id": "c90a4d50-27cf-41bb-abdc-98b485e28198",
           "name": "Add Projects To Group",
           "request": {
             "name": "Add Projects To Group",
@@ -5222,7 +5234,7 @@
           }
         },
         {
-          "id": "b4079b83-57d1-46c7-ad0d-53345de1f7ce",
+          "id": "8795de11-be93-4b68-bee4-69ea832d9fb3",
           "name": "Remove Projects From Group",
           "request": {
             "name": "Remove Projects From Group",
@@ -5297,7 +5309,7 @@
       "description": "Project Template",
       "item": [
         {
-          "id": "a9056aed-3769-4f12-be91-761a2d7c8552",
+          "id": "01f86096-3713-4950-b9f1-b3db9574ddf5",
           "name": "Get Project Template",
           "request": {
             "name": "Get Project Template",
@@ -5362,7 +5374,7 @@
           }
         },
         {
-          "id": "129c4e3d-916f-4524-bcb8-0d37f21dc99f",
+          "id": "52908ae6-ee8e-4d22-ba24-7dc8c6269eee",
           "name": "Update Project Template",
           "request": {
             "name": "Update Project Template",
@@ -5414,7 +5426,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"fileProcessingConfiguration\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"projectManagers\": [\n    {\n      \"id\": \"<string>\",\n      \"type\": \"user\"\n    },\n    {\n      \"id\": \"<string>\",\n      \"type\": \"user\"\n    }\n  ],\n  \"scheduleTemplate\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"languageDirections\": [\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    },\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    }\n  ],\n  \"customFields\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"translationEngine\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"pricingModel\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"workflow\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"settings\": {\n    \"general\": {\n      \"forceOnline\": false,\n      \"quoteTemplate\": {\n        \"id\": \"<string>\",\n        \"strategy\": \"copy\"\n      },\n      \"customerPortalVisibility\": true,\n      \"completionConfiguration\": {\n        \"completeDays\": 90,\n        \"archiveDays\": 90,\n        \"archiveReminderDays\": 7\n      }\n    },\n    \"qualityManagement\": {\n      \"tqaProfile\": {\n        \"id\": \"<string>\",\n        \"strategy\": \"copy\"\n      }\n    },\n    \"translationMemorySettings\": {\n      \"filters\": {\n        \"hardFilter\": {\n          \"expression\": \"<string>\",\n          \"fields\": 8838\n        }\n      },\n      \"updateTranslationMemoryFields\": [\n        {\n          \"fieldId\": \"<string>\",\n          \"values\": [\n            \"<string>\",\n            \"<string>\"\n          ]\n        },\n        {\n          \"fieldId\": \"<string>\",\n          \"values\": [\n            \"<string>\",\n            \"<string>\"\n          ]\n        }\n      ]\n    }\n  }\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"fileProcessingConfiguration\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"projectManagers\": [\n    {\n      \"id\": \"<string>\",\n      \"type\": \"group\"\n    },\n    {\n      \"id\": \"<string>\",\n      \"type\": \"user\"\n    }\n  ],\n  \"scheduleTemplate\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"languageDirections\": [\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    },\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    }\n  ],\n  \"customFields\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"translationEngine\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"pricingModel\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"workflow\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"settings\": {\n    \"general\": {\n      \"forceOnline\": false,\n      \"quoteTemplate\": {\n        \"id\": \"<string>\",\n        \"strategy\": \"copy\"\n      },\n      \"customerPortalVisibility\": true,\n      \"completionConfiguration\": {\n        \"completeDays\": 90,\n        \"archiveDays\": 90,\n        \"archiveReminderDays\": 7\n      }\n    },\n    \"qualityManagement\": {\n      \"tqaProfile\": {\n        \"id\": \"<string>\",\n        \"strategy\": \"copy\"\n      }\n    },\n    \"translationMemorySettings\": {\n      \"filters\": {\n        \"hardFilter\": {\n          \"expression\": \"<string>\",\n          \"fields\": \"string\"\n        }\n      },\n      \"updateTranslationMemoryFields\": [\n        {\n          \"fieldId\": \"<string>\",\n          \"values\": [\n            \"<string>\",\n            \"<string>\"\n          ]\n        },\n        {\n          \"fieldId\": \"<string>\",\n          \"values\": [\n            \"<string>\",\n            \"<string>\"\n          ]\n        }\n      ]\n    }\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -5430,7 +5442,7 @@
           }
         },
         {
-          "id": "ace1031a-053c-409e-8da1-e59ea71ca922",
+          "id": "df3edb04-56b8-460c-94f0-193d1d4f7ca7",
           "name": "Delete Project Template",
           "request": {
             "name": "Delete Project Template",
@@ -5485,7 +5497,7 @@
           }
         },
         {
-          "id": "eb9783fa-6677-42d6-8b19-a330d094b65a",
+          "id": "c04a70ee-fe04-4591-82ef-aa659cdb5a9a",
           "name": "List Project Templates",
           "request": {
             "name": "List Project Templates",
@@ -5592,7 +5604,7 @@
           }
         },
         {
-          "id": "210fb4c6-a2f8-4cc5-94e1-a5cf1851dfc8",
+          "id": "feaab8e5-554c-4a3b-ac52-7f64fb68be26",
           "name": "Create Project Template",
           "request": {
             "name": "Create Project Template",
@@ -5642,7 +5654,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"location\": \"<string>\",\n  \"fileProcessingConfiguration\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"description\": \"<string>\",\n  \"projectManagers\": [\n    {\n      \"id\": \"<string>\",\n      \"type\": \"user\"\n    },\n    {\n      \"id\": \"<string>\",\n      \"type\": \"group\"\n    }\n  ],\n  \"scheduleTemplate\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"languageDirections\": [\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    },\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    }\n  ],\n  \"customFields\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"translationEngine\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"pricingModel\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"workflow\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"settings\": {\n    \"general\": {\n      \"forceOnline\": false,\n      \"quoteTemplate\": {\n        \"id\": \"<string>\",\n        \"strategy\": \"copy\"\n      },\n      \"customerPortalVisibility\": true,\n      \"completionConfiguration\": {\n        \"completeDays\": 90,\n        \"archiveDays\": 90,\n        \"archiveReminderDays\": 7\n      }\n    },\n    \"qualityManagement\": {\n      \"tqaProfile\": {\n        \"id\": \"<string>\",\n        \"strategy\": \"copy\"\n      }\n    }\n  }\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"location\": \"<string>\",\n  \"fileProcessingConfiguration\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"description\": \"<string>\",\n  \"projectManagers\": [\n    {\n      \"id\": \"<string>\",\n      \"type\": \"group\"\n    },\n    {\n      \"id\": \"<string>\",\n      \"type\": \"group\"\n    }\n  ],\n  \"scheduleTemplate\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"languageDirections\": [\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    },\n    {\n      \"sourceLanguage\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguage\": {\n        \"languageCode\": \"<string>\"\n      }\n    }\n  ],\n  \"customFields\": [\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    },\n    {\n      \"key\": \"<string>\",\n      \"value\": {}\n    }\n  ],\n  \"translationEngine\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"pricingModel\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"workflow\": {\n    \"id\": \"<string>\",\n    \"strategy\": \"copy\"\n  },\n  \"settings\": {\n    \"general\": {\n      \"forceOnline\": false,\n      \"quoteTemplate\": {\n        \"id\": \"<string>\",\n        \"strategy\": \"copy\"\n      },\n      \"customerPortalVisibility\": true,\n      \"completionConfiguration\": {\n        \"completeDays\": 90,\n        \"archiveDays\": 90,\n        \"archiveReminderDays\": 7\n      }\n    },\n    \"qualityManagement\": {\n      \"tqaProfile\": {\n        \"id\": \"<string>\",\n        \"strategy\": \"copy\"\n      }\n    }\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -5664,7 +5676,7 @@
       "description": "Public Keys",
       "item": [
         {
-          "id": "7ff67ab5-bda7-4e5a-995d-a74b6d4252a0",
+          "id": "50db121a-1506-476c-aecd-46f86e6f5c4c",
           "name": "List Public Keys",
           "request": {
             "name": "List Public Keys",
@@ -5699,7 +5711,7 @@
           }
         },
         {
-          "id": "718ea4aa-77e3-4c51-9df7-6cd671223263",
+          "id": "bb0368eb-50ae-41ab-b900-739cbb69d747",
           "name": "Get Public Key",
           "request": {
             "name": "Get Public Key",
@@ -5752,7 +5764,7 @@
       "description": "Quote",
       "item": [
         {
-          "id": "467adda8-f215-405c-8119-889261eb9e72",
+          "id": "e8ac791a-2479-41ea-bf39-9138eac6844e",
           "name": "Export Quote Report",
           "request": {
             "name": "Export Quote Report",
@@ -5828,7 +5840,7 @@
           }
         },
         {
-          "id": "df2d887d-7fc2-4996-ac70-8354ab4b72db",
+          "id": "510b968b-5869-4509-8705-832bf2fa4c10",
           "name": "Poll Quote Report Export",
           "request": {
             "name": "Poll Quote Report Export",
@@ -5904,7 +5916,7 @@
           }
         },
         {
-          "id": "7c46e2a5-9daf-48fa-b049-dbe196fbc54a",
+          "id": "4f6804e3-b6be-401d-ac71-335326167acf",
           "name": "Download Exported Quote Report",
           "request": {
             "name": "Download Exported Quote Report",
@@ -5986,7 +5998,7 @@
       "description": "Rate Limits",
       "item": [
         {
-          "id": "c0a04c63-901f-4ee7-b7a5-ba8e75bf57e6",
+          "id": "4d2989c9-39e9-4a08-a5c0-9e9c5b9a913c",
           "name": "List Rate Limits",
           "request": {
             "name": "List Rate Limits",
@@ -6054,7 +6066,7 @@
       "description": "Role and Permission",
       "item": [
         {
-          "id": "7ff4c695-ddec-4f73-9d99-5f3e7dbc0041",
+          "id": "aeef52e5-4967-4f9b-9a9f-a48da4f59724",
           "name": "List Roles",
           "request": {
             "name": "List Roles",
@@ -6125,7 +6137,7 @@
           }
         },
         {
-          "id": "c64636d5-4afd-4c7a-bc31-faac493f4356",
+          "id": "c50bf7b4-aca1-49a0-adad-bb0547391dcf",
           "name": "Create Role",
           "request": {
             "name": "Create Role",
@@ -6191,7 +6203,7 @@
           }
         },
         {
-          "id": "1ec2ff96-6406-418b-a729-2089791c678a",
+          "id": "4a96028d-3349-4a29-b0b0-e9a412f8f391",
           "name": "Get Role",
           "request": {
             "name": "Get Role",
@@ -6256,7 +6268,7 @@
           }
         },
         {
-          "id": "a506c46a-90a9-45d6-a2de-9cfdc702e696",
+          "id": "1e3fc97a-9ed3-46a2-8bce-d1a70657e721",
           "name": "Update Role",
           "request": {
             "name": "Update Role",
@@ -6324,7 +6336,7 @@
           }
         },
         {
-          "id": "e4fd824c-9fbf-43cb-aa1b-1b6210075524",
+          "id": "01bf6d1a-552a-497a-8f14-55eff6849dd2",
           "name": "Delete Role",
           "request": {
             "name": "Delete Role",
@@ -6379,7 +6391,7 @@
           }
         },
         {
-          "id": "ae53c053-7349-4612-ba02-3964df189921",
+          "id": "d774aed5-9c8b-480a-bba8-e5d374c923dd",
           "name": "List Permissions",
           "request": {
             "name": "List Permissions",
@@ -6428,7 +6440,7 @@
       "description": "Schedule Template",
       "item": [
         {
-          "id": "56210a41-813b-46d6-a5bc-3a2065ab16bc",
+          "id": "5d8e7e32-eba5-41aa-9051-9d1887ee62ae",
           "name": "List Schedule Templates",
           "request": {
             "name": "List Schedule Templates",
@@ -6526,7 +6538,7 @@
           }
         },
         {
-          "id": "7b8de588-6d0a-46fe-aaf8-1f61d4452b5d",
+          "id": "8451eff7-eee0-4d2a-a7ec-4d5d96cd0466",
           "name": "Create Schedule Template",
           "request": {
             "name": "Create Schedule Template",
@@ -6576,7 +6588,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"location\": \"<string>\",\n  \"configurations\": [\n    {\n      \"taskTypeId\": \"<string>\",\n      \"schedules\": [\n        {\n          \"scope\": \"languageDirection\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 480,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        },\n        {\n          \"scope\": \"languageDirection\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 60,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"taskTypeId\": \"<string>\",\n      \"schedules\": [\n        {\n          \"scope\": \"languageDirection\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 1440,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        },\n        {\n          \"scope\": \"sourceLanguage\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 60,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        }\n      ]\n    }\n  ],\n  \"projectScheduleConfiguration\": {\n    \"duration\": 0,\n    \"reminder\": 2880\n  }\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"location\": \"<string>\",\n  \"configurations\": [\n    {\n      \"taskTypeId\": \"<string>\",\n      \"schedules\": [\n        {\n          \"scope\": \"sourceLanguage\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 1440,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        },\n        {\n          \"scope\": \"sourceLanguage\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 120,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"taskTypeId\": \"<string>\",\n      \"schedules\": [\n        {\n          \"scope\": \"global\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 2880,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        },\n        {\n          \"scope\": \"global\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 60,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        }\n      ]\n    }\n  ],\n  \"projectScheduleConfiguration\": {\n    \"duration\": 0,\n    \"reminder\": 120\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -6592,7 +6604,7 @@
           }
         },
         {
-          "id": "27af5cd8-f06a-49bf-81eb-c1ab92d5f8ec",
+          "id": "7db4da97-ea0f-4e46-aaa3-1a0501d80fdb",
           "name": "Get Schedule Template",
           "request": {
             "name": "Get Schedule Template",
@@ -6657,7 +6669,7 @@
           }
         },
         {
-          "id": "581e6b74-3dec-4205-b346-a5a1dd972e31",
+          "id": "f899dc5c-7b53-4660-bbad-14d6686f21e3",
           "name": "Delete Schedule Template",
           "request": {
             "name": "Delete Schedule Template",
@@ -6712,7 +6724,7 @@
           }
         },
         {
-          "id": "2e21ef48-29b7-475d-8f95-41ef98f4798d",
+          "id": "80f9b256-e983-4fa4-a501-eb352ccbe65d",
           "name": "Update Schedule Template",
           "request": {
             "name": "Update Schedule Template",
@@ -6764,7 +6776,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"configurations\": [\n    {\n      \"taskTypeId\": \"<string>\",\n      \"schedules\": [\n        {\n          \"scope\": \"global\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 15,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        },\n        {\n          \"scope\": \"global\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 2880,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"taskTypeId\": \"<string>\",\n      \"schedules\": [\n        {\n          \"scope\": \"global\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 480,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        },\n        {\n          \"scope\": \"sourceLanguage\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 480,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        }\n      ]\n    }\n  ],\n  \"projectScheduleConfiguration\": {\n    \"duration\": 0,\n    \"reminder\": 480\n  }\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"configurations\": [\n    {\n      \"taskTypeId\": \"<string>\",\n      \"schedules\": [\n        {\n          \"scope\": \"sourceLanguage\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 2880,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        },\n        {\n          \"scope\": \"sourceLanguage\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 30,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"taskTypeId\": \"<string>\",\n      \"schedules\": [\n        {\n          \"scope\": \"global\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 2880,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        },\n        {\n          \"scope\": \"sourceLanguage\",\n          \"duration\": \"<integer>\",\n          \"reminder\": 2880,\n          \"sourceLanguage\": \"<string>\",\n          \"targetLanguage\": \"<string>\"\n        }\n      ]\n    }\n  ],\n  \"projectScheduleConfiguration\": {\n    \"duration\": 0,\n    \"reminder\": 480\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -6786,7 +6798,7 @@
       "description": "Source File",
       "item": [
         {
-          "id": "1f37c227-f6c5-44b7-9ef5-df2bf0852130",
+          "id": "c005a9f8-6d90-4ad9-a0fc-a946bec09e82",
           "name": "List Source Files",
           "request": {
             "name": "List Source Files",
@@ -6879,7 +6891,7 @@
           }
         },
         {
-          "id": "f84d4421-a78d-4720-8ea3-492c22018282",
+          "id": "7d81dc07-049c-44e2-9c7d-e6912d0f50f6",
           "name": "Add Source File",
           "request": {
             "name": "Add Source File",
@@ -6960,7 +6972,7 @@
           }
         },
         {
-          "id": "1126a93b-f929-4254-ae00-adabcafab9cc",
+          "id": "6703c17b-d495-493f-821f-c1af7956a985",
           "name": "Update Source Files",
           "request": {
             "name": "Update Source Files",
@@ -7020,7 +7032,7 @@
           }
         },
         {
-          "id": "87df0b34-cf2e-4c80-ab94-6b4fa3fc2f77",
+          "id": "74f9b1ef-b44a-4832-b7d7-b1583990139e",
           "name": "Attach Source Files",
           "request": {
             "name": "Attach Source Files",
@@ -7084,7 +7096,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"sourceFilesAttachment\": [\n    {\n      \"name\": \"<string>\",\n      \"role\": \"translatable\",\n      \"fileUrl\": \"<string>\",\n      \"type\": \"bcm\",\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguages\": [\n        {\n          \"languageCode\": \"<string>\"\n        },\n        {\n          \"languageCode\": \"<string>\"\n        }\n      ],\n      \"path\": [\n        \"<string>\",\n        \"<string>\"\n      ]\n    },\n    {\n      \"name\": \"<string>\",\n      \"role\": \"reference\",\n      \"fileUrl\": \"<string>\",\n      \"type\": \"sdlxliff\",\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguages\": [\n        {\n          \"languageCode\": \"<string>\"\n        },\n        {\n          \"languageCode\": \"<string>\"\n        }\n      ],\n      \"path\": [\n        \"<string>\",\n        \"<string>\"\n      ]\n    }\n  ]\n}",
+              "raw": "{\n  \"sourceFilesAttachment\": [\n    {\n      \"name\": \"<string>\",\n      \"role\": \"translatable\",\n      \"fileUrl\": \"<string>\",\n      \"type\": \"bcm\",\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguages\": [\n        {\n          \"languageCode\": \"<string>\"\n        },\n        {\n          \"languageCode\": \"<string>\"\n        }\n      ],\n      \"path\": [\n        \"<string>\",\n        \"<string>\"\n      ]\n    },\n    {\n      \"name\": \"<string>\",\n      \"role\": \"translatable\",\n      \"fileUrl\": \"<string>\",\n      \"type\": \"sdlxliff\",\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"targetLanguages\": [\n        {\n          \"languageCode\": \"<string>\"\n        },\n        {\n          \"languageCode\": \"<string>\"\n        }\n      ],\n      \"path\": [\n        \"<string>\",\n        \"<string>\"\n      ]\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -7100,7 +7112,7 @@
           }
         },
         {
-          "id": "0036a7d7-3a85-450c-a2c4-6605b026923f",
+          "id": "43bb2cfc-b772-448f-8168-121df8f63296",
           "name": "Get Source File",
           "request": {
             "name": "Get Source File",
@@ -7177,7 +7189,7 @@
           }
         },
         {
-          "id": "50322561-f315-4dec-ae7a-6991b9390360",
+          "id": "6a64f642-a0e6-4592-9bfd-63684c133cbc",
           "name": "Update Source File",
           "request": {
             "name": "Update Source File",
@@ -7248,7 +7260,7 @@
           }
         },
         {
-          "id": "e405ae60-f21d-4468-b3e9-6649a054184a",
+          "id": "565c785d-29f1-4e26-ab0c-75d7af039682",
           "name": "List Source File Versions",
           "request": {
             "name": "List Source File Versions",
@@ -7326,7 +7338,7 @@
           }
         },
         {
-          "id": "e8a08991-6517-42ef-b9cb-fb893914e231",
+          "id": "58ce07b9-4af0-42c7-8bb9-a6a5c59edbd3",
           "name": "Add Source File Version",
           "request": {
             "name": "Add Source File Version",
@@ -7429,7 +7441,7 @@
           }
         },
         {
-          "id": "0ece6f11-a957-4654-a6b1-2c25e25cd853",
+          "id": "19275193-1d39-4a2d-a58f-0632ce687ffe",
           "name": "Download Source File Version",
           "request": {
             "name": "Download Source File Version",
@@ -7509,7 +7521,7 @@
           }
         },
         {
-          "id": "a7bce7e9-0a3b-44a8-8152-4b11ce66582a",
+          "id": "152cdd89-bbd9-4e30-8c13-602220519f8a",
           "name": "Get Source File Properties",
           "request": {
             "name": "Get Source File Properties",
@@ -7576,7 +7588,7 @@
           }
         },
         {
-          "id": "0a65a329-fd8f-410a-a3f5-5ce153a65e41",
+          "id": "9148d9c8-c5bb-4bf0-8833-ff38a1e091ab",
           "name": "Update Source File Properties",
           "request": {
             "name": "Update Source File Properties",
@@ -7640,7 +7652,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"fileRole\": \"translatable\",\n  \"fileTypeSettingsId\": \"<string>\"\n}",
+              "raw": "{\n  \"fileRole\": \"reference\",\n  \"fileTypeSettingsId\": \"<string>\"\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -7662,7 +7674,7 @@
       "description": "Target File",
       "item": [
         {
-          "id": "8ef5dec3-7162-4cfb-aa67-88f85fe240fc",
+          "id": "3d160691-44b0-4e51-a98c-22e969755ec5",
           "name": "Get Target File",
           "request": {
             "name": "Get Target File",
@@ -7739,7 +7751,7 @@
           }
         },
         {
-          "id": "5a5687d4-c79d-44e6-813b-6c4fc688324d",
+          "id": "72af68cf-a77a-4f49-aedb-12f1ca6dfddb",
           "name": "Update Target File",
           "request": {
             "name": "Update Target File",
@@ -7810,7 +7822,7 @@
           }
         },
         {
-          "id": "9c53f80b-8fee-4b05-8152-bbebfa52cc82",
+          "id": "b5e3675b-296d-493a-80cd-ac21efc8ead6",
           "name": "List Target Files",
           "request": {
             "name": "List Target Files",
@@ -7912,7 +7924,7 @@
           }
         },
         {
-          "id": "544079b0-184d-4014-b569-db42f7fac4f1",
+          "id": "98bac440-eefe-4190-bc9e-f933c51205bb",
           "name": "Update Target Files",
           "request": {
             "name": "Update Target Files",
@@ -7972,7 +7984,7 @@
           }
         },
         {
-          "id": "4b52bbe8-1c1d-414b-9a2d-31d7dd7d6ce0",
+          "id": "c7a1f1cb-d8a0-4c5d-b97c-6c15e1bbf08a",
           "name": "Get Target File Version",
           "request": {
             "name": "Get Target File Version",
@@ -8061,7 +8073,7 @@
           }
         },
         {
-          "id": "7ac289b6-62c4-4911-a9e1-72f80e5d9c74",
+          "id": "ad8fa4fb-ed9d-4c0b-8574-f791bbc17929",
           "name": "List Target File Versions",
           "request": {
             "name": "List Target File Versions",
@@ -8139,7 +8151,7 @@
           }
         },
         {
-          "id": "1fce3301-f59b-48d3-b799-591e93d32043",
+          "id": "dcee2f19-4c77-49bd-a3f4-1523f3bc361e",
           "name": "Export Target File Version",
           "request": {
             "name": "Export Target File Version",
@@ -8229,7 +8241,7 @@
           }
         },
         {
-          "id": "7007db2c-60b5-4ed6-a716-1c297b954b41",
+          "id": "7b482777-bb9f-44a2-8493-7a3a8b48cc89",
           "name": "Poll Target File Version Export",
           "request": {
             "name": "Poll Target File Version Export",
@@ -8320,7 +8332,7 @@
           }
         },
         {
-          "id": "269c4127-0b84-4c00-adf9-abdbd2fd6f14",
+          "id": "aa4de52c-d2aa-4ca7-92f8-45392f001f05",
           "name": "Download Exported Target File Version",
           "request": {
             "name": "Download Exported Target File Version",
@@ -8412,7 +8424,7 @@
           }
         },
         {
-          "id": "bdca12b1-9aad-4c21-b4b2-04b4beee5bf4",
+          "id": "15e7fc39-3174-46ff-a16d-36968597d1ae",
           "name": "Download Target File Version",
           "request": {
             "name": "Download Target File Version",
@@ -8492,7 +8504,7 @@
           }
         },
         {
-          "id": "f303fb03-0bbc-4ee3-9dc6-4373aea8649b",
+          "id": "0e7b468f-288f-4df1-9471-f9c70676b657",
           "name": "Import Target File Version",
           "request": {
             "name": "Import Target File Version",
@@ -8577,7 +8589,7 @@
           }
         },
         {
-          "id": "b1127ae5-526f-4fd1-9adb-bff9afbbd12f",
+          "id": "910c493e-26af-4a7d-b541-6fccfb596901",
           "name": "Poll Target File Version Import",
           "request": {
             "name": "Poll Target File Version Import",
@@ -8657,7 +8669,7 @@
           }
         },
         {
-          "id": "326ad187-f7aa-4619-be18-80f8d41e3448",
+          "id": "e90a6aa0-9d6a-4ec8-a2d2-a0aec91c5d5d",
           "name": "Add Target File Version",
           "request": {
             "name": "Add Target File Version",
@@ -8766,7 +8778,7 @@
       "description": "Task",
       "item": [
         {
-          "id": "65486596-a72b-4803-be5a-342107b45515",
+          "id": "510c8f6c-d3ae-4321-9f63-3cfd9a2f6ca4",
           "name": "Get Task",
           "request": {
             "name": "Get Task",
@@ -8831,7 +8843,7 @@
           }
         },
         {
-          "id": "50ce4ec0-df5d-44d7-ad97-d753ad7dc21b",
+          "id": "a83fe043-d406-41a4-b777-28e04744721a",
           "name": "List Tasks assigned to me",
           "request": {
             "name": "List Tasks assigned to me",
@@ -8939,7 +8951,7 @@
           }
         },
         {
-          "id": "53010e03-92df-4407-b758-07c01ca99dcc",
+          "id": "af604ef3-c918-491b-9d9e-253ceb3c73ad",
           "name": "Accept Task",
           "request": {
             "name": "Accept Task",
@@ -9005,7 +9017,7 @@
           }
         },
         {
-          "id": "e253d93e-3809-4355-870e-c6d915a2621d",
+          "id": "99086fc4-4146-47bb-95f4-104988982698",
           "name": "Reject Task",
           "request": {
             "name": "Reject Task",
@@ -9061,7 +9073,7 @@
           }
         },
         {
-          "id": "34f381dd-c981-4265-9805-0e534cc09a93",
+          "id": "d18fa681-da55-47d6-a07e-1a3b3798df90",
           "name": "Complete Task",
           "request": {
             "name": "Complete Task",
@@ -9130,7 +9142,7 @@
           }
         },
         {
-          "id": "fe579165-06c2-42c9-bc94-cc4396ce9eb2",
+          "id": "c85b126b-67ed-4675-b023-a0bfd94b5362",
           "name": "Release Task",
           "request": {
             "name": "Release Task",
@@ -9186,7 +9198,7 @@
           }
         },
         {
-          "id": "c2ff323a-eb30-42cf-b254-683c4ffe6a4b",
+          "id": "7ab8d400-699a-42a2-a2af-1f5264699432",
           "name": "Reclaim Task",
           "request": {
             "name": "Reclaim Task",
@@ -9242,7 +9254,7 @@
           }
         },
         {
-          "id": "b10a6f61-00af-4502-aae3-e5b9d500027d",
+          "id": "6438c807-89a7-4f6f-8869-91288abf0678",
           "name": "Assign Task",
           "request": {
             "name": "Assign Task",
@@ -9295,7 +9307,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"assignees\": [\n    {\n      \"type\": \"projectManager\",\n      \"id\": \"<string>\"\n    },\n    {\n      \"type\": \"projectCreator\",\n      \"id\": \"<string>\"\n    }\n  ]\n}",
+              "raw": "{\n  \"assignees\": [\n    {\n      \"type\": \"user\",\n      \"id\": \"<string>\"\n    },\n    {\n      \"type\": \"vendorOrderTemplate\",\n      \"id\": \"<string>\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -9317,7 +9329,7 @@
       "description": "Task Type",
       "item": [
         {
-          "id": "8fd39f35-a19d-4921-8bab-8540c10cef89",
+          "id": "cb9e9d4e-3575-454c-ad3e-2f3821daec14",
           "name": "Get Task Type",
           "request": {
             "name": "Get Task Type",
@@ -9382,7 +9394,7 @@
           }
         },
         {
-          "id": "3733d4eb-6dd8-4043-a102-f5fb1f337c77",
+          "id": "4e8392a0-5672-4f7c-9468-0ddc865d9ca5",
           "name": "List Task Types",
           "request": {
             "name": "List Task Types",
@@ -9504,7 +9516,7 @@
       "description": "Termbase",
       "item": [
         {
-          "id": "cbe9b844-c3e9-4729-af11-83a16ed5c0eb",
+          "id": "16bdf00f-19c9-48e3-b11f-e5c15c137342",
           "name": "List Termbases",
           "request": {
             "name": "List Termbases",
@@ -9593,7 +9605,7 @@
           }
         },
         {
-          "id": "46b62522-211d-4360-b603-c2b866336dee",
+          "id": "1f21b718-14e2-4a13-8fed-973f6e623e79",
           "name": "Create Termbase",
           "request": {
             "name": "Create Termbase",
@@ -9643,7 +9655,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"copyright\": \"<string>\",\n  \"location\": \"<string>\",\n  \"termbaseTemplateId\": \"<string>\",\n  \"termbaseStructure\": {\n    \"languages\": [\n      {\n        \"languageCode\": \"<string>\"\n      },\n      {\n        \"languageCode\": \"<string>\"\n      }\n    ],\n    \"fields\": [\n      {\n        \"name\": \"<string>\",\n        \"level\": \"entry\",\n        \"dataType\": \"double\",\n        \"description\": \"<string>\",\n        \"pickListValues\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"allowCustomValues\": false,\n        \"allowMultiple\": true,\n        \"isMandatory\": false\n      },\n      {\n        \"name\": \"<string>\",\n        \"level\": \"language\",\n        \"dataType\": \"boolean\",\n        \"description\": \"<string>\",\n        \"pickListValues\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"allowCustomValues\": false,\n        \"allowMultiple\": true,\n        \"isMandatory\": false\n      }\n    ]\n  }\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"copyright\": \"<string>\",\n  \"location\": \"<string>\",\n  \"termbaseTemplateId\": \"<string>\",\n  \"termbaseStructure\": {\n    \"languages\": [\n      {\n        \"languageCode\": \"<string>\"\n      },\n      {\n        \"languageCode\": \"<string>\"\n      }\n    ],\n    \"fields\": [\n      {\n        \"name\": \"<string>\",\n        \"level\": \"entry\",\n        \"dataType\": \"date\",\n        \"description\": \"<string>\",\n        \"pickListValues\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"allowCustomValues\": false,\n        \"allowMultiple\": true,\n        \"isMandatory\": false\n      },\n      {\n        \"name\": \"<string>\",\n        \"level\": \"language\",\n        \"dataType\": \"date\",\n        \"description\": \"<string>\",\n        \"pickListValues\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"allowCustomValues\": false,\n        \"allowMultiple\": true,\n        \"isMandatory\": false\n      }\n    ]\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -9659,7 +9671,7 @@
           }
         },
         {
-          "id": "fb561a14-4079-498c-9e05-a0c15c668524",
+          "id": "380760ac-9fed-445e-b720-e9f6dfc4978e",
           "name": "Get Termbase",
           "request": {
             "name": "Get Termbase",
@@ -9724,7 +9736,7 @@
           }
         },
         {
-          "id": "829bf76f-4b89-4a12-a99d-61e87b4a05c8",
+          "id": "ab60b572-0c6a-4bd6-9898-cb00143736a9",
           "name": "Delete Termbase",
           "request": {
             "name": "Delete Termbase",
@@ -9779,7 +9791,7 @@
           }
         },
         {
-          "id": "f6e40ccc-83a3-4510-9d06-09f488f78f9f",
+          "id": "f547b3a1-b247-46a8-bddb-37785fe277fe",
           "name": "Update Termbase",
           "request": {
             "name": "Update Termbase",
@@ -9831,7 +9843,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"copyright\": \"<string>\",\n  \"termbaseTemplateId\": \"<string>\",\n  \"termbaseStructure\": {\n    \"languages\": [\n      {\n        \"languageCode\": \"<string>\"\n      },\n      {\n        \"languageCode\": \"<string>\"\n      }\n    ],\n    \"fields\": [\n      {\n        \"name\": \"<string>\",\n        \"level\": \"language\",\n        \"dataType\": \"boolean\",\n        \"id\": \"<string>\",\n        \"description\": \"<string>\",\n        \"pickListValues\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"allowCustomValues\": false,\n        \"allowMultiple\": true,\n        \"isMandatory\": false\n      },\n      {\n        \"name\": \"<string>\",\n        \"level\": \"language\",\n        \"dataType\": \"boolean\",\n        \"id\": \"<string>\",\n        \"description\": \"<string>\",\n        \"pickListValues\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"allowCustomValues\": false,\n        \"allowMultiple\": true,\n        \"isMandatory\": false\n      }\n    ]\n  }\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"copyright\": \"<string>\",\n  \"termbaseTemplateId\": \"<string>\",\n  \"termbaseStructure\": {\n    \"languages\": [\n      {\n        \"languageCode\": \"<string>\"\n      },\n      {\n        \"languageCode\": \"<string>\"\n      }\n    ],\n    \"fields\": [\n      {\n        \"name\": \"<string>\",\n        \"level\": \"entry\",\n        \"dataType\": \"text\",\n        \"id\": \"<string>\",\n        \"description\": \"<string>\",\n        \"pickListValues\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"allowCustomValues\": false,\n        \"allowMultiple\": true,\n        \"isMandatory\": false\n      },\n      {\n        \"name\": \"<string>\",\n        \"level\": \"entry\",\n        \"dataType\": \"double\",\n        \"id\": \"<string>\",\n        \"description\": \"<string>\",\n        \"pickListValues\": [\n          \"<string>\",\n          \"<string>\"\n        ],\n        \"allowCustomValues\": false,\n        \"allowMultiple\": true,\n        \"isMandatory\": false\n      }\n    ]\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -9847,7 +9859,7 @@
           }
         },
         {
-          "id": "960905bb-1efb-4cf4-995f-e5d45043025f",
+          "id": "e9cea429-16e8-41d7-ba4f-3168d08c8708",
           "name": "Create Termbase Entry",
           "request": {
             "name": "Create Termbase Entry",
@@ -9910,7 +9922,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"languages\": [\n    {\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"terms\": [\n        {\n          \"text\": \"<string>\",\n          \"systemStatus\": \"deprecated\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"text\": \"<string>\",\n          \"systemStatus\": \"superseded\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        }\n      ],\n      \"termbaseFieldValues\": [\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"external\",\n              \"value\": \"<string>\"\n            }\n          ]\n        },\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"external\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"terms\": [\n        {\n          \"text\": \"<string>\",\n          \"systemStatus\": \"preferred\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"text\": \"<string>\",\n          \"systemStatus\": \"inReview\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        }\n      ],\n      \"termbaseFieldValues\": [\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            }\n          ]\n        },\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            }\n          ]\n        }\n      ]\n    }\n  ],\n  \"humanReadableId\": \"<string>\",\n  \"termbaseFieldValues\": [\n    {\n      \"termbaseFieldId\": \"<string>\",\n      \"value\": \"<string>\",\n      \"fieldValueLinks\": [\n        {\n          \"type\": \"term\",\n          \"value\": \"<string>\"\n        },\n        {\n          \"type\": \"entry\",\n          \"value\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"termbaseFieldId\": \"<string>\",\n      \"value\": \"<string>\",\n      \"fieldValueLinks\": [\n        {\n          \"type\": \"entry\",\n          \"value\": \"<string>\"\n        },\n        {\n          \"type\": \"external\",\n          \"value\": \"<string>\"\n        }\n      ]\n    }\n  ]\n}",
+              "raw": "{\n  \"languages\": [\n    {\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"terms\": [\n        {\n          \"text\": \"<string>\",\n          \"systemStatus\": \"forbidden\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"text\": \"<string>\",\n          \"systemStatus\": \"deprecated\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        }\n      ],\n      \"termbaseFieldValues\": [\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            }\n          ]\n        },\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"terms\": [\n        {\n          \"text\": \"<string>\",\n          \"systemStatus\": \"inReview\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"text\": \"<string>\",\n          \"systemStatus\": \"preferred\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        }\n      ],\n      \"termbaseFieldValues\": [\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            }\n          ]\n        },\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            }\n          ]\n        }\n      ]\n    }\n  ],\n  \"humanReadableId\": \"<string>\",\n  \"termbaseFieldValues\": [\n    {\n      \"termbaseFieldId\": \"<string>\",\n      \"value\": \"<string>\",\n      \"fieldValueLinks\": [\n        {\n          \"type\": \"entry\",\n          \"value\": \"<string>\"\n        },\n        {\n          \"type\": \"external\",\n          \"value\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"termbaseFieldId\": \"<string>\",\n      \"value\": \"<string>\",\n      \"fieldValueLinks\": [\n        {\n          \"type\": \"term\",\n          \"value\": \"<string>\"\n        },\n        {\n          \"type\": \"term\",\n          \"value\": \"<string>\"\n        }\n      ]\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -9926,7 +9938,7 @@
           }
         },
         {
-          "id": "41f71830-5c42-44ee-95cf-8d8b406fffb3",
+          "id": "af430792-cbc2-43de-af1e-b15bd75f0213",
           "name": "List Termbase Entries",
           "request": {
             "name": "List Termbase Entries",
@@ -10028,7 +10040,7 @@
           }
         },
         {
-          "id": "6f55fdc7-4845-4bfe-8d7b-40d640dcea8a",
+          "id": "a88c064a-71b3-486d-8a6a-0ab4cc38ca4b",
           "name": "Delete Termbase Entries",
           "request": {
             "name": "Delete Termbase Entries",
@@ -10084,7 +10096,7 @@
           }
         },
         {
-          "id": "8a1238ca-d383-4729-80f8-d17ce85857da",
+          "id": "ac55ef0b-6a51-45b9-b21f-0dd1133a0c35",
           "name": "Get Termbase Entry",
           "request": {
             "name": "Get Termbase Entry",
@@ -10161,7 +10173,7 @@
           }
         },
         {
-          "id": "1913927d-4623-4f32-83f6-f924248f40d1",
+          "id": "9c59bb1a-6922-4d46-a126-f4fe3972dd82",
           "name": "Update Termbase Entry",
           "request": {
             "name": "Update Termbase Entry",
@@ -10225,7 +10237,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"languages\": [\n    {\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"terms\": [\n        {\n          \"text\": \"<string>\",\n          \"id\": \"<string>\",\n          \"systemStatus\": \"rejected\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"text\": \"<string>\",\n          \"id\": \"<string>\",\n          \"systemStatus\": \"superseded\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        }\n      ],\n      \"id\": \"<string>\",\n      \"termbaseFieldValues\": [\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"id\": \"<string>\",\n          \"name\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"external\",\n              \"value\": \"<string>\"\n            }\n          ]\n        },\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"id\": \"<string>\",\n          \"name\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"external\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"terms\": [\n        {\n          \"text\": \"<string>\",\n          \"id\": \"<string>\",\n          \"systemStatus\": \"forbidden\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"text\": \"<string>\",\n          \"id\": \"<string>\",\n          \"systemStatus\": \"rejected\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        }\n      ],\n      \"id\": \"<string>\",\n      \"termbaseFieldValues\": [\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"id\": \"<string>\",\n          \"name\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            }\n          ]\n        },\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"id\": \"<string>\",\n          \"name\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            }\n          ]\n        }\n      ]\n    }\n  ],\n  \"humanReadableId\": \"<string>\",\n  \"termbaseFieldValues\": [\n    {\n      \"termbaseFieldId\": \"<string>\",\n      \"value\": \"<string>\",\n      \"id\": \"<string>\",\n      \"name\": \"<string>\",\n      \"fieldValueLinks\": [\n        {\n          \"type\": \"term\",\n          \"value\": \"<string>\"\n        },\n        {\n          \"type\": \"external\",\n          \"value\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"termbaseFieldId\": \"<string>\",\n      \"value\": \"<string>\",\n      \"id\": \"<string>\",\n      \"name\": \"<string>\",\n      \"fieldValueLinks\": [\n        {\n          \"type\": \"entry\",\n          \"value\": \"<string>\"\n        },\n        {\n          \"type\": \"entry\",\n          \"value\": \"<string>\"\n        }\n      ]\n    }\n  ]\n}",
+              "raw": "{\n  \"languages\": [\n    {\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"terms\": [\n        {\n          \"text\": \"<string>\",\n          \"id\": \"<string>\",\n          \"systemStatus\": \"preferred\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"text\": \"<string>\",\n          \"id\": \"<string>\",\n          \"systemStatus\": \"inReview\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        }\n      ],\n      \"id\": \"<string>\",\n      \"termbaseFieldValues\": [\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"id\": \"<string>\",\n          \"name\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"external\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            }\n          ]\n        },\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"id\": \"<string>\",\n          \"name\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"language\": {\n        \"languageCode\": \"<string>\"\n      },\n      \"terms\": [\n        {\n          \"text\": \"<string>\",\n          \"id\": \"<string>\",\n          \"systemStatus\": \"superseded\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"entry\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"term\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"text\": \"<string>\",\n          \"id\": \"<string>\",\n          \"systemStatus\": \"recommended\",\n          \"termbaseFieldValues\": [\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            },\n            {\n              \"termbaseFieldId\": \"<string>\",\n              \"value\": \"<string>\",\n              \"id\": \"<string>\",\n              \"name\": \"<string>\",\n              \"fieldValueLinks\": [\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                },\n                {\n                  \"type\": \"external\",\n                  \"value\": \"<string>\"\n                }\n              ]\n            }\n          ]\n        }\n      ],\n      \"id\": \"<string>\",\n      \"termbaseFieldValues\": [\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"id\": \"<string>\",\n          \"name\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"entry\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"external\",\n              \"value\": \"<string>\"\n            }\n          ]\n        },\n        {\n          \"termbaseFieldId\": \"<string>\",\n          \"value\": \"<string>\",\n          \"id\": \"<string>\",\n          \"name\": \"<string>\",\n          \"fieldValueLinks\": [\n            {\n              \"type\": \"term\",\n              \"value\": \"<string>\"\n            },\n            {\n              \"type\": \"external\",\n              \"value\": \"<string>\"\n            }\n          ]\n        }\n      ]\n    }\n  ],\n  \"humanReadableId\": \"<string>\",\n  \"termbaseFieldValues\": [\n    {\n      \"termbaseFieldId\": \"<string>\",\n      \"value\": \"<string>\",\n      \"id\": \"<string>\",\n      \"name\": \"<string>\",\n      \"fieldValueLinks\": [\n        {\n          \"type\": \"entry\",\n          \"value\": \"<string>\"\n        },\n        {\n          \"type\": \"entry\",\n          \"value\": \"<string>\"\n        }\n      ]\n    },\n    {\n      \"termbaseFieldId\": \"<string>\",\n      \"value\": \"<string>\",\n      \"id\": \"<string>\",\n      \"name\": \"<string>\",\n      \"fieldValueLinks\": [\n        {\n          \"type\": \"term\",\n          \"value\": \"<string>\"\n        },\n        {\n          \"type\": \"term\",\n          \"value\": \"<string>\"\n        }\n      ]\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -10241,7 +10253,7 @@
           }
         },
         {
-          "id": "c8b0458a-2608-4511-88d7-25314b2fa409",
+          "id": "46e242d1-fd3a-4aca-8fb1-e9d951b31c6a",
           "name": "Delete Termbase Entry",
           "request": {
             "name": "Delete Termbase Entry",
@@ -10308,7 +10320,7 @@
           }
         },
         {
-          "id": "8764ad11-8ee3-4d1d-9c6c-77708abc6b18",
+          "id": "2ef6afb9-82e0-40e1-b14c-eb5d83bf3d0b",
           "name": "List Termbase Terms",
           "request": {
             "name": "List Termbase Terms",
@@ -10427,7 +10439,7 @@
       "description": "Termbase Export",
       "item": [
         {
-          "id": "727817cf-41d5-4b81-abba-85dc09360203",
+          "id": "aae5b81c-46eb-41e4-98a8-9e2ec15bdcff",
           "name": "Export Termbase",
           "request": {
             "name": "Export Termbase",
@@ -10496,7 +10508,7 @@
           }
         },
         {
-          "id": "094255cf-62db-4134-a376-096b9fd5b276",
+          "id": "a535606a-6647-480c-8389-b408098d54b9",
           "name": "Poll Termbase Export",
           "request": {
             "name": "Poll Termbase Export",
@@ -10563,7 +10575,7 @@
           }
         },
         {
-          "id": "c963a8cb-60c7-4a20-b9b0-163184dcad05",
+          "id": "72f6ac26-7de4-4c29-8a01-9f8c7243c019",
           "name": "Download Exported Termbase",
           "request": {
             "name": "Download Exported Termbase",
@@ -10631,7 +10643,7 @@
           }
         },
         {
-          "id": "2940e919-7756-4eca-81bd-b8407fd460ec",
+          "id": "ce916d9b-b098-487e-9d7a-0e51b17ef83b",
           "name": "Export Termbase Template",
           "request": {
             "name": "Export Termbase Template",
@@ -10693,7 +10705,7 @@
       "description": "Termbase Import",
       "item": [
         {
-          "id": "285a33bf-7a87-41ed-8f76-04b1df996fcc",
+          "id": "fb37789e-adb0-4774-83c1-2a838a5bb08b",
           "name": "Get Termbase Import History",
           "request": {
             "name": "Get Termbase Import History",
@@ -10777,7 +10789,7 @@
           }
         },
         {
-          "id": "e7cb76e4-d783-470a-b54c-63e8ac8fad91",
+          "id": "302c0adc-c89f-4d2e-b37b-49f52ebc988f",
           "name": "Import Termbase",
           "request": {
             "name": "Import Termbase",
@@ -10877,7 +10889,7 @@
           }
         },
         {
-          "id": "2cd854cd-845c-43b9-b525-868bace1c2ab",
+          "id": "c04f6fd2-7455-4a15-87ba-9a522a171ef8",
           "name": "Poll Termbase Import",
           "request": {
             "name": "Poll Termbase Import",
@@ -10944,7 +10956,7 @@
           }
         },
         {
-          "id": "458f46b8-24d3-451d-a69d-c405afe1cdea",
+          "id": "2133fc02-d770-4c19-9017-6e2d20d380fc",
           "name": "Download Termbase Import Logs",
           "request": {
             "name": "Download Termbase Import Logs",
@@ -11018,7 +11030,7 @@
       "description": "Termbase Template",
       "item": [
         {
-          "id": "ed364cbc-899b-499f-9a21-3187b6095b66",
+          "id": "27a62d4c-6202-4d05-979d-2d3f3cd2983d",
           "name": "List Termbase Templates",
           "request": {
             "name": "List Termbase Templates",
@@ -11068,7 +11080,7 @@
                     "type": "text/plain"
                   },
                   "key": "type",
-                  "value": "userDefined"
+                  "value": "system"
                 },
                 {
                   "disabled": true,
@@ -11116,7 +11128,7 @@
           }
         },
         {
-          "id": "9e05dbd7-9c18-4f8e-bed8-6e504226d4e1",
+          "id": "aa7feed2-fbc0-4fc3-9bd9-cdf863b36963",
           "name": "Create Termbase Template",
           "request": {
             "name": "Create Termbase Template",
@@ -11166,7 +11178,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"copyright\": \"<string>\",\n  \"location\": \"<string>\",\n  \"languages\": [\n    {\n      \"languageCode\": \"<string>\"\n    },\n    {\n      \"languageCode\": \"<string>\"\n    }\n  ],\n  \"fields\": [\n    {\n      \"name\": \"<string>\",\n      \"level\": \"language\",\n      \"dataType\": \"text\",\n      \"description\": \"<string>\",\n      \"pickListValues\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"allowCustomValues\": false,\n      \"allowMultiple\": true,\n      \"isMandatory\": false\n    },\n    {\n      \"name\": \"<string>\",\n      \"level\": \"language\",\n      \"dataType\": \"boolean\",\n      \"description\": \"<string>\",\n      \"pickListValues\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"allowCustomValues\": false,\n      \"allowMultiple\": true,\n      \"isMandatory\": false\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"copyright\": \"<string>\",\n  \"location\": \"<string>\",\n  \"languages\": [\n    {\n      \"languageCode\": \"<string>\"\n    },\n    {\n      \"languageCode\": \"<string>\"\n    }\n  ],\n  \"fields\": [\n    {\n      \"name\": \"<string>\",\n      \"level\": \"term\",\n      \"dataType\": \"text\",\n      \"description\": \"<string>\",\n      \"pickListValues\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"allowCustomValues\": false,\n      \"allowMultiple\": true,\n      \"isMandatory\": false\n    },\n    {\n      \"name\": \"<string>\",\n      \"level\": \"term\",\n      \"dataType\": \"boolean\",\n      \"description\": \"<string>\",\n      \"pickListValues\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"allowCustomValues\": false,\n      \"allowMultiple\": true,\n      \"isMandatory\": false\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -11182,7 +11194,7 @@
           }
         },
         {
-          "id": "f2a1486a-8098-4cdc-9bff-07826e3b199b",
+          "id": "b72f9ec0-c346-47d7-afd4-71c4c245a4d2",
           "name": "Get Termbase Template",
           "request": {
             "name": "Get Termbase Template",
@@ -11247,7 +11259,7 @@
           }
         },
         {
-          "id": "e8635434-2fac-4153-afb5-008b8c3e55dc",
+          "id": "2fa4e336-b389-4fa9-9ff5-0002c96259f2",
           "name": "Delete Termbase Template",
           "request": {
             "name": "Delete Termbase Template",
@@ -11302,7 +11314,7 @@
           }
         },
         {
-          "id": "9b582f95-0e87-4d08-a5a1-7d2f44500740",
+          "id": "abfe968a-5ad5-4c32-91d7-3698d5a43add",
           "name": "Update Termbase Template",
           "request": {
             "name": "Update Termbase Template",
@@ -11354,7 +11366,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"copyright\": \"<string>\",\n  \"languages\": [\n    {\n      \"languageCode\": \"<string>\"\n    },\n    {\n      \"languageCode\": \"<string>\"\n    }\n  ],\n  \"fields\": [\n    {\n      \"name\": \"<string>\",\n      \"level\": \"language\",\n      \"dataType\": \"picklist\",\n      \"id\": \"<string>\",\n      \"description\": \"<string>\",\n      \"pickListValues\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"allowCustomValues\": false,\n      \"allowMultiple\": true,\n      \"isMandatory\": false\n    },\n    {\n      \"name\": \"<string>\",\n      \"level\": \"language\",\n      \"dataType\": \"picklist\",\n      \"id\": \"<string>\",\n      \"description\": \"<string>\",\n      \"pickListValues\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"allowCustomValues\": false,\n      \"allowMultiple\": true,\n      \"isMandatory\": false\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"copyright\": \"<string>\",\n  \"languages\": [\n    {\n      \"languageCode\": \"<string>\"\n    },\n    {\n      \"languageCode\": \"<string>\"\n    }\n  ],\n  \"fields\": [\n    {\n      \"name\": \"<string>\",\n      \"level\": \"language\",\n      \"dataType\": \"double\",\n      \"id\": \"<string>\",\n      \"description\": \"<string>\",\n      \"pickListValues\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"allowCustomValues\": false,\n      \"allowMultiple\": true,\n      \"isMandatory\": false\n    },\n    {\n      \"name\": \"<string>\",\n      \"level\": \"entry\",\n      \"dataType\": \"boolean\",\n      \"id\": \"<string>\",\n      \"description\": \"<string>\",\n      \"pickListValues\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"allowCustomValues\": false,\n      \"allowMultiple\": true,\n      \"isMandatory\": false\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -11370,7 +11382,7 @@
           }
         },
         {
-          "id": "e6521318-d7d5-44e5-adfd-f966a1ffc0b7",
+          "id": "2eab068f-1275-4524-800b-671469f12787",
           "name": "Convert XDT to Termbase Structure",
           "request": {
             "name": "Convert XDT to Termbase Structure",
@@ -11446,7 +11458,7 @@
       "description": "TQA Profile",
       "item": [
         {
-          "id": "c3a73d8c-4008-4dd1-98c7-08737445a713",
+          "id": "d7cd0ff8-41ee-463a-bc1d-287249ec12b1",
           "name": "List TQA Profiles",
           "request": {
             "name": "List TQA Profiles",
@@ -11544,7 +11556,7 @@
           }
         },
         {
-          "id": "eb18e1ae-1971-48c1-b2d8-580699640e3f",
+          "id": "33686b00-7602-425b-b1f8-28735ad5d6f6",
           "name": "Get TQA Profile",
           "request": {
             "name": "Get TQA Profile",
@@ -11615,7 +11627,7 @@
       "description": "Translation",
       "item": [
         {
-          "id": "dd73112c-7cd5-48aa-aa82-449c1cc56de3",
+          "id": "3fc217ce-9306-4415-a51e-8cdac311dfc9",
           "name": "Lookup",
           "request": {
             "name": "Lookup",
@@ -11666,7 +11678,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"input\": {\n    \"content\": \"<string>\",\n    \"contentType\": \"text\"\n  },\n  \"languageDirection\": {\n    \"sourceLanguage\": {\n      \"languageCode\": \"<string>\"\n    },\n    \"targetLanguage\": {\n      \"languageCode\": \"<string>\"\n    }\n  },\n  \"definition\": {\n    \"translationEngineId\": \"<string>\"\n  },\n  \"settings\": {\n    \"translationMemory\": {\n      \"minimumMatchValue\": 70,\n      \"penalties\": {\n        \"standardPenalties\": {\n          \"missingFormatting\": 1,\n          \"differentFormatting\": 1,\n          \"multipleTranslations\": 1,\n          \"autoLocalization\": 0,\n          \"textReplacement\": 0,\n          \"alignment\": 1,\n          \"characterWidthDifference\": 1\n        },\n        \"translationUnitStatusPenalties\": {\n          \"translated\": 0,\n          \"translationRejected\": 0,\n          \"translationApproved\": 0,\n          \"signOffRejected\": 0,\n          \"signOff\": 0,\n          \"notTranslated\": 0,\n          \"draft\": 0\n        }\n      }\n    }\n  }\n}",
+              "raw": "{\n  \"input\": {\n    \"content\": \"<string>\",\n    \"contentType\": \"bcmFragment\"\n  },\n  \"languageDirection\": {\n    \"sourceLanguage\": {\n      \"languageCode\": \"<string>\"\n    },\n    \"targetLanguage\": {\n      \"languageCode\": \"<string>\"\n    }\n  },\n  \"definition\": {\n    \"translationEngineId\": \"<string>\"\n  },\n  \"settings\": {\n    \"translationMemory\": {\n      \"minimumMatchValue\": 70,\n      \"penalties\": {\n        \"standardPenalties\": {\n          \"missingFormatting\": 1,\n          \"differentFormatting\": 1,\n          \"multipleTranslations\": 1,\n          \"autoLocalization\": 0,\n          \"textReplacement\": 0,\n          \"alignment\": 1,\n          \"characterWidthDifference\": 1\n        },\n        \"translationUnitStatusPenalties\": {\n          \"translated\": 0,\n          \"translationRejected\": 0,\n          \"translationApproved\": 0,\n          \"signOffRejected\": 0,\n          \"signOff\": 0,\n          \"notTranslated\": 0,\n          \"draft\": 0\n        }\n      }\n    }\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -11682,7 +11694,7 @@
           }
         },
         {
-          "id": "990479bd-9488-45fa-b337-8075fce9bd7e",
+          "id": "e635b8cd-326a-45bb-95b2-89ba2394e77d",
           "name": "Concordance",
           "request": {
             "name": "Concordance",
@@ -11749,7 +11761,7 @@
           }
         },
         {
-          "id": "59b09287-d663-4113-bed9-27d8bf5fb0ea",
+          "id": "99bfba82-cd60-481c-82c8-6df53b156352",
           "name": "Update Translation Unit",
           "request": {
             "name": "Update Translation Unit",
@@ -11816,7 +11828,7 @@
           }
         },
         {
-          "id": "7c3c0a2d-2b45-420c-b0a8-afdd35498c08",
+          "id": "104eaf3a-4c61-469e-9866-8e7e1f6333c7",
           "name": "Add Translation Unit",
           "request": {
             "name": "Add Translation Unit",
@@ -11867,7 +11879,7 @@
             "method": "POST",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"input\": {\n    \"content\": \"<string>\"\n  },\n  \"definition\": {\n    \"translationEngineId\": \"<string>\"\n  },\n  \"settings\": {\n    \"fields\": [\n      {\n        \"name\": \"<string>\",\n        \"values\": [\n          \"<string>\",\n          \"<string>\"\n        ]\n      },\n      {\n        \"name\": \"<string>\",\n        \"values\": [\n          \"<string>\",\n          \"<string>\"\n        ]\n      }\n    ],\n    \"ifTargetSegmentsDiffer\": \"overwrite\"\n  }\n}",
+              "raw": "{\n  \"input\": {\n    \"content\": \"<string>\"\n  },\n  \"definition\": {\n    \"translationEngineId\": \"<string>\"\n  },\n  \"settings\": {\n    \"fields\": [\n      {\n        \"name\": \"<string>\",\n        \"values\": [\n          \"<string>\",\n          \"<string>\"\n        ]\n      },\n      {\n        \"name\": \"<string>\",\n        \"values\": [\n          \"<string>\",\n          \"<string>\"\n        ]\n      }\n    ],\n    \"ifTargetSegmentsDiffer\": \"leaveUnchanged\"\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -11889,7 +11901,7 @@
       "description": "Translation Domain",
       "item": [
         {
-          "id": "7fcd056a-c504-482f-893e-a9b41f28564e",
+          "id": "5263ceae-518e-4bc7-8681-64accc1bdc02",
           "name": "List Service Types",
           "request": {
             "name": "List Service Types",
@@ -11939,7 +11951,7 @@
       "description": "Translation Engine",
       "item": [
         {
-          "id": "2427793c-1a25-4627-af0b-12612d562299",
+          "id": "823d93b4-86ab-4e04-9d93-a54d97f2a3f0",
           "name": "Get Translation Engine",
           "request": {
             "name": "Get Translation Engine",
@@ -12004,7 +12016,7 @@
           }
         },
         {
-          "id": "9be36952-06cd-4f37-a746-b9823bba1188",
+          "id": "c5882b25-6638-4174-befc-16b275b1bdad",
           "name": "Update Translation Engine",
           "request": {
             "name": "Update Translation Engine",
@@ -12056,7 +12068,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"definition\": {\n    \"languageProcessingRuleId\": \"<string>\",\n    \"languagePairDefinitions\": [\n      {\n        \"languagePair\": {\n          \"source\": \"<string>\",\n          \"target\": \"<string>\"\n        },\n        \"resources\": [\n          {\n            \"id\": \"<string>\",\n            \"type\": \"TM\",\n            \"systemId\": \"<string>\",\n            \"penalty\": \"<integer>\",\n            \"lookup\": \"<boolean>\",\n            \"concordance\": \"<boolean>\",\n            \"update\": \"<boolean>\",\n            \"generativeTranslation\": \"<boolean>\",\n            \"smartReview\": \"<boolean>\"\n          },\n          {\n            \"id\": \"<string>\",\n            \"type\": \"TB\",\n            \"systemId\": \"<string>\",\n            \"penalty\": \"<integer>\",\n            \"lookup\": \"<boolean>\",\n            \"concordance\": \"<boolean>\",\n            \"update\": \"<boolean>\",\n            \"generativeTranslation\": \"<boolean>\",\n            \"smartReview\": \"<boolean>\"\n          }\n        ],\n        \"adjacentLanguagePairs\": [\n          {\n            \"source\": \"<string>\",\n            \"target\": \"<string>\"\n          },\n          {\n            \"source\": \"<string>\",\n            \"target\": \"<string>\"\n          }\n        ]\n      },\n      {\n        \"languagePair\": {\n          \"source\": \"<string>\",\n          \"target\": \"<string>\"\n        },\n        \"resources\": [\n          {\n            \"id\": \"<string>\",\n            \"type\": \"TM\",\n            \"systemId\": \"<string>\",\n            \"penalty\": \"<integer>\",\n            \"lookup\": \"<boolean>\",\n            \"concordance\": \"<boolean>\",\n            \"update\": \"<boolean>\",\n            \"generativeTranslation\": \"<boolean>\",\n            \"smartReview\": \"<boolean>\"\n          },\n          {\n            \"id\": \"<string>\",\n            \"type\": \"MT\",\n            \"systemId\": \"<string>\",\n            \"penalty\": \"<integer>\",\n            \"lookup\": \"<boolean>\",\n            \"concordance\": \"<boolean>\",\n            \"update\": \"<boolean>\",\n            \"generativeTranslation\": \"<boolean>\",\n            \"smartReview\": \"<boolean>\"\n          }\n        ],\n        \"adjacentLanguagePairs\": [\n          {\n            \"source\": \"<string>\",\n            \"target\": \"<string>\"\n          },\n          {\n            \"source\": \"<string>\",\n            \"target\": \"<string>\"\n          }\n        ]\n      }\n    ],\n    \"sequence\": {\n      \"tm\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"tb\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"mt\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"llm\": [\n        \"<string>\",\n        \"<string>\"\n      ]\n    },\n    \"adjacentLanguagePenalty\": 0\n  }\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"definition\": {\n    \"languageProcessingRuleId\": \"<string>\",\n    \"languagePairDefinitions\": [\n      {\n        \"languagePair\": {\n          \"source\": \"<string>\",\n          \"target\": \"<string>\"\n        },\n        \"resources\": [\n          {\n            \"id\": \"<string>\",\n            \"type\": \"LLM\",\n            \"systemId\": \"<string>\",\n            \"penalty\": \"<integer>\",\n            \"lookup\": \"<boolean>\",\n            \"concordance\": \"<boolean>\",\n            \"update\": \"<boolean>\",\n            \"generativeTranslation\": \"<boolean>\",\n            \"smartReview\": \"<boolean>\"\n          },\n          {\n            \"id\": \"<string>\",\n            \"type\": \"TM\",\n            \"systemId\": \"<string>\",\n            \"penalty\": \"<integer>\",\n            \"lookup\": \"<boolean>\",\n            \"concordance\": \"<boolean>\",\n            \"update\": \"<boolean>\",\n            \"generativeTranslation\": \"<boolean>\",\n            \"smartReview\": \"<boolean>\"\n          }\n        ],\n        \"adjacentLanguagePairs\": [\n          {\n            \"source\": \"<string>\",\n            \"target\": \"<string>\"\n          },\n          {\n            \"source\": \"<string>\",\n            \"target\": \"<string>\"\n          }\n        ]\n      },\n      {\n        \"languagePair\": {\n          \"source\": \"<string>\",\n          \"target\": \"<string>\"\n        },\n        \"resources\": [\n          {\n            \"id\": \"<string>\",\n            \"type\": \"TB\",\n            \"systemId\": \"<string>\",\n            \"penalty\": \"<integer>\",\n            \"lookup\": \"<boolean>\",\n            \"concordance\": \"<boolean>\",\n            \"update\": \"<boolean>\",\n            \"generativeTranslation\": \"<boolean>\",\n            \"smartReview\": \"<boolean>\"\n          },\n          {\n            \"id\": \"<string>\",\n            \"type\": \"TM\",\n            \"systemId\": \"<string>\",\n            \"penalty\": \"<integer>\",\n            \"lookup\": \"<boolean>\",\n            \"concordance\": \"<boolean>\",\n            \"update\": \"<boolean>\",\n            \"generativeTranslation\": \"<boolean>\",\n            \"smartReview\": \"<boolean>\"\n          }\n        ],\n        \"adjacentLanguagePairs\": [\n          {\n            \"source\": \"<string>\",\n            \"target\": \"<string>\"\n          },\n          {\n            \"source\": \"<string>\",\n            \"target\": \"<string>\"\n          }\n        ]\n      }\n    ],\n    \"sequence\": {\n      \"tm\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"tb\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"mt\": [\n        \"<string>\",\n        \"<string>\"\n      ],\n      \"llm\": [\n        \"<string>\",\n        \"<string>\"\n      ]\n    },\n    \"adjacentLanguagePenalty\": 0\n  }\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -12072,7 +12084,7 @@
           }
         },
         {
-          "id": "79c433ed-fd2a-433a-bb3c-259e7c2e7bf6",
+          "id": "6e6f201d-b620-4bb0-b65b-25b6c6ec627b",
           "name": "List Translation Engines",
           "request": {
             "name": "List Translation Engines",
@@ -12176,7 +12188,7 @@
       "description": "Translation Memory",
       "item": [
         {
-          "id": "54794bbc-24c7-40e3-a4bb-fac40e17367f",
+          "id": "04b0013b-2a85-45de-880b-4127bb52c1ab",
           "name": "Get Translation Memory",
           "request": {
             "name": "Get Translation Memory",
@@ -12241,7 +12253,7 @@
           }
         },
         {
-          "id": "b097107a-90a7-427f-936b-eb31cde26ee4",
+          "id": "f55b6cb3-81dd-4e8e-a319-7d34d7bb8ee9",
           "name": "Update Translation Memory",
           "request": {
             "name": "Update Translation Memory",
@@ -12309,7 +12321,7 @@
           }
         },
         {
-          "id": "2fad4ddf-3679-4523-a87e-89bde70ae39a",
+          "id": "ecd0b863-9452-4efa-a794-6886b7a20bc9",
           "name": "Delete Translation Memory",
           "request": {
             "name": "Delete Translation Memory",
@@ -12364,7 +12376,7 @@
           }
         },
         {
-          "id": "8c72bed8-4f31-4a07-bff3-b2f4c0045228",
+          "id": "f7c8f8e0-d95c-4d7e-92c2-3b7843a66d2f",
           "name": "Copy Translation Memory",
           "request": {
             "name": "Copy Translation Memory",
@@ -12430,7 +12442,7 @@
           }
         },
         {
-          "id": "2c183091-15a4-442c-9616-1d4f3fd189e1",
+          "id": "363096aa-0286-4cdb-b981-ce2c93ea420d",
           "name": "List Translation Memories",
           "request": {
             "name": "List Translation Memories",
@@ -12528,7 +12540,7 @@
           }
         },
         {
-          "id": "4a3ea1bb-b4cb-4ce4-af76-c99638a4d126",
+          "id": "511a98b3-b5d4-4dd0-8fa4-7282937b072f",
           "name": "Create Translation Memory",
           "request": {
             "name": "Create Translation Memory",
@@ -12594,7 +12606,7 @@
           }
         },
         {
-          "id": "95adb955-5e40-43bb-a876-c67728b08231",
+          "id": "82195ac7-a431-4ef9-b0f2-f9dd30aa9ab4",
           "name": "List Field Templates",
           "request": {
             "name": "List Field Templates",
@@ -12693,7 +12705,7 @@
           }
         },
         {
-          "id": "dff1666b-888a-4579-baa4-0929ff255c30",
+          "id": "e08e94ae-c2a8-4e11-8e42-5a46f1a12a62",
           "name": "Get Field Template",
           "request": {
             "name": "Get Field Template",
@@ -12765,7 +12777,7 @@
       "description": "Translation Memory Export",
       "item": [
         {
-          "id": "a432d004-aa26-4933-af28-74912b21d8d4",
+          "id": "795af61d-d5dc-4ab4-9ec6-ae906b656581",
           "name": "Export Translation Memory",
           "request": {
             "name": "Export Translation Memory",
@@ -12834,7 +12846,7 @@
           }
         },
         {
-          "id": "1180203e-090d-44a8-8202-edfc195879d0",
+          "id": "5ff65624-6a37-4dc0-906c-22ef6c42dce6",
           "name": "Poll Translation Memory Export",
           "request": {
             "name": "Poll Translation Memory Export",
@@ -12890,7 +12902,7 @@
           }
         },
         {
-          "id": "5f33288c-a3b2-4983-827e-835aca2510d4",
+          "id": "b2536846-d58a-48d9-a03b-e59beb7305db",
           "name": "Download Exported Translation Memory",
           "request": {
             "name": "Download Exported Translation Memory",
@@ -12953,7 +12965,7 @@
       "description": "Translation Memory Import",
       "item": [
         {
-          "id": "4e38450e-410f-44a1-ac81-229e0cbf60e0",
+          "id": "c9cf19f5-3256-4e78-99a6-b6fb4074a7c8",
           "name": "Get Translation Memory Import History",
           "request": {
             "name": "Get Translation Memory Import History",
@@ -13037,7 +13049,7 @@
           }
         },
         {
-          "id": "901ac5b5-ce3f-423b-b777-cb4f40c7041a",
+          "id": "0e99b71e-b0d9-4c6c-b49e-9b1c4b31f35e",
           "name": "Import Translation Memory",
           "request": {
             "name": "Import Translation Memory",
@@ -13118,7 +13130,7 @@
           }
         },
         {
-          "id": "660df6fc-5c4a-4062-a916-c79f79f18df6",
+          "id": "b845c160-955e-46da-8939-3a1be484e13c",
           "name": "Poll Translation Memory Import",
           "request": {
             "name": "Poll Translation Memory Import",
@@ -13180,7 +13192,7 @@
       "description": "User",
       "item": [
         {
-          "id": "e5026908-48bb-4dea-b4ee-8011c9a8752a",
+          "id": "6bac197e-7c66-42c0-9d8b-8c8430421b33",
           "name": "Get my User",
           "request": {
             "name": "Get my User",
@@ -13234,7 +13246,7 @@
           }
         },
         {
-          "id": "670a28f7-60c1-41f0-ac43-2ca1ec5a00c4",
+          "id": "8f3b1404-46e4-4bf4-820c-f96607adb1d0",
           "name": "List Users",
           "request": {
             "name": "List Users",
@@ -13332,7 +13344,7 @@
           }
         },
         {
-          "id": "e481729f-108c-40ed-995c-7563c79cc682",
+          "id": "4521bccf-2f02-495c-ad30-86b7e9829b36",
           "name": "Create User",
           "request": {
             "name": "Create User",
@@ -13398,7 +13410,7 @@
           }
         },
         {
-          "id": "5f3fbc8d-2476-4a11-8290-697b4d625e62",
+          "id": "10f366ab-24c6-4497-a6f4-f672194a933b",
           "name": "Get User",
           "request": {
             "name": "Get User",
@@ -13463,7 +13475,7 @@
           }
         },
         {
-          "id": "d64b6528-aea2-43ad-a0de-92554f31cd04",
+          "id": "7a792a77-9058-4f89-9372-0325fdc7ca77",
           "name": "Update User",
           "request": {
             "name": "Update User",
@@ -13541,7 +13553,7 @@
           }
         },
         {
-          "id": "288f9a8d-3df6-45be-923b-5ca204a115c6",
+          "id": "8e3c053d-ccb6-428d-ade5-9d645003e9c4",
           "name": "Delete User",
           "request": {
             "name": "Delete User",
@@ -13602,7 +13614,7 @@
       "description": "Workflow",
       "item": [
         {
-          "id": "e9fbd062-40e4-4e32-97aa-d6897fd2bf29",
+          "id": "c45e7537-7bea-43ae-bcd6-de0da5b96542",
           "name": "Get Workflow",
           "request": {
             "name": "Get Workflow",
@@ -13667,7 +13679,7 @@
           }
         },
         {
-          "id": "a613c58a-d555-4ea9-98f1-2ca4c1be4747",
+          "id": "1a5a89ab-b048-4aa5-9211-0f423a0f0574",
           "name": "Update Workflow",
           "request": {
             "name": "Update Workflow",
@@ -13719,7 +13731,7 @@
             "method": "PUT",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"taskConfigurations\": [\n    {\n      \"taskTemplate\": {\n        \"id\": \"<string>\"\n      },\n      \"isSkipped\": \"<boolean>\",\n      \"assignees\": [\n        {\n          \"type\": \"vendorOrderTemplate\",\n          \"user\": {\n            \"id\": \"<string>\"\n          },\n          \"group\": {\n            \"id\": \"<string>\"\n          },\n          \"vendorOrderTemplate\": {\n            \"id\": \"<string>\"\n          }\n        },\n        {\n          \"type\": \"projectCreator\",\n          \"user\": {\n            \"id\": \"<string>\"\n          },\n          \"group\": {\n            \"id\": \"<string>\"\n          },\n          \"vendorOrderTemplate\": {\n            \"id\": \"<string>\"\n          }\n        }\n      ],\n      \"scope\": {\n        \"type\": \"languageDirection\",\n        \"sourceLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"targetLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"languageDirection\": {\n          \"id\": \"<string>\"\n        }\n      }\n    },\n    {\n      \"taskTemplate\": {\n        \"id\": \"<string>\"\n      },\n      \"isSkipped\": \"<boolean>\",\n      \"assignees\": [\n        {\n          \"type\": \"group\",\n          \"user\": {\n            \"id\": \"<string>\"\n          },\n          \"group\": {\n            \"id\": \"<string>\"\n          },\n          \"vendorOrderTemplate\": {\n            \"id\": \"<string>\"\n          }\n        },\n        {\n          \"type\": \"projectCreator\",\n          \"user\": {\n            \"id\": \"<string>\"\n          },\n          \"group\": {\n            \"id\": \"<string>\"\n          },\n          \"vendorOrderTemplate\": {\n            \"id\": \"<string>\"\n          }\n        }\n      ],\n      \"scope\": {\n        \"type\": \"targetLanguage\",\n        \"sourceLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"targetLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"languageDirection\": {\n          \"id\": \"<string>\"\n        }\n      }\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"<string>\",\n  \"description\": \"<string>\",\n  \"taskConfigurations\": [\n    {\n      \"taskTemplate\": {\n        \"id\": \"<string>\"\n      },\n      \"isSkipped\": \"<boolean>\",\n      \"assignees\": [\n        {\n          \"type\": \"projectCreator\",\n          \"user\": {\n            \"id\": \"<string>\"\n          },\n          \"group\": {\n            \"id\": \"<string>\"\n          },\n          \"vendorOrderTemplate\": {\n            \"id\": \"<string>\"\n          }\n        },\n        {\n          \"type\": \"group\",\n          \"user\": {\n            \"id\": \"<string>\"\n          },\n          \"group\": {\n            \"id\": \"<string>\"\n          },\n          \"vendorOrderTemplate\": {\n            \"id\": \"<string>\"\n          }\n        }\n      ],\n      \"scope\": {\n        \"type\": \"targetLanguage\",\n        \"sourceLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"targetLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"languageDirection\": {\n          \"id\": \"<string>\"\n        }\n      }\n    },\n    {\n      \"taskTemplate\": {\n        \"id\": \"<string>\"\n      },\n      \"isSkipped\": \"<boolean>\",\n      \"assignees\": [\n        {\n          \"type\": \"projectCreator\",\n          \"user\": {\n            \"id\": \"<string>\"\n          },\n          \"group\": {\n            \"id\": \"<string>\"\n          },\n          \"vendorOrderTemplate\": {\n            \"id\": \"<string>\"\n          }\n        },\n        {\n          \"type\": \"projectCreator\",\n          \"user\": {\n            \"id\": \"<string>\"\n          },\n          \"group\": {\n            \"id\": \"<string>\"\n          },\n          \"vendorOrderTemplate\": {\n            \"id\": \"<string>\"\n          }\n        }\n      ],\n      \"scope\": {\n        \"type\": \"sourceLanguage\",\n        \"sourceLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"targetLanguage\": {\n          \"languageCode\": \"<string>\"\n        },\n        \"languageDirection\": {\n          \"id\": \"<string>\"\n        }\n      }\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "headerFamily": "json",
@@ -13735,7 +13747,7 @@
           }
         },
         {
-          "id": "f8ca4cde-3f82-410f-a98f-d59c587f09f3",
+          "id": "b98a8e3f-389c-4310-aeca-ddc654fe5040",
           "name": "List Workflows",
           "request": {
             "name": "List Workflows",
@@ -13917,7 +13929,7 @@
     }
   ],
   "info": {
-    "_postman_id": "e9230f17-25a5-4347-a02b-de074dfcb9e8",
+    "_postman_id": "99363484-4810-4538-b0a0-7008adf3d635",
     "name": "Trados Cloud Platform API",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "description": {
